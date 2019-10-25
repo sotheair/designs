@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.5" host="www.draw.io" modified="2019-10-25T09:36:15.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="cZDWufXx_m_kRxaGQE8v" pages="1">
+<mxfile type="github" version="12.1.5" host="www.draw.io" modified="2019-10-25T09:36:54.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="ytQmYBgqihOPHFu9hR8l" pages="1">
   <diagram id="tsJ4FVzS7xN1H9VnqtXZ" name="Page-1">
     <mxGraphModel grid="1" dx="1488" dy="818" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="SW_OqwKcot6XCAKr860w-1" value="Invoice H5 Page/E-Invoice Mode" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;">
           <mxGeometry as="geometry" height="77" width="200" y="368" x="60"/>
         </mxCell>
-        <mxCell id="SW_OqwKcot6XCAKr860w-6" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;">
+        <mxCell id="SW_OqwKcot6XCAKr860w-6" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;">
           <mxGeometry as="geometry" height="370" width="800" y="260" x="390"/>
         </mxCell>
         <mxCell id="SW_OqwKcot6XCAKr860w-7" value="&lt;h1&gt;Mid Layer Platform&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;">
@@ -22,7 +22,7 @@
         <mxCell id="SW_OqwKcot6XCAKr860w-14" value="Order Center " parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="65" width="205" y="520" x="830"/>
         </mxCell>
-        <mxCell id="SW_OqwKcot6XCAKr860w-15" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;">
+        <mxCell id="SW_OqwKcot6XCAKr860w-15" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#e1d5e7;strokeColor=#9673a6;">
           <mxGeometry as="geometry" height="370" width="330" y="260" x="1240"/>
         </mxCell>
         <mxCell id="SW_OqwKcot6XCAKr860w-16" value="&lt;h1&gt;Backend Systems&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;">
