@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.5" host="www.draw.io" modified="2019-10-25T09:35:27.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="3_h8S1vq3cUd-7IKbFik" pages="1">
+<mxfile type="github" version="12.1.5" host="www.draw.io" modified="2019-10-25T09:36:15.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="cZDWufXx_m_kRxaGQE8v" pages="1">
   <diagram id="tsJ4FVzS7xN1H9VnqtXZ" name="Page-1">
     <mxGraphModel grid="1" dx="1488" dy="818" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry as="geometry" height="65" width="205" y="385" x="830"/>
         </mxCell>
         <mxCell id="SW_OqwKcot6XCAKr860w-14" value="Order Center " parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
-          <mxGeometry as="geometry" height="65" width="245" y="520" x="790"/>
+          <mxGeometry as="geometry" height="65" width="205" y="520" x="830"/>
         </mxCell>
         <mxCell id="SW_OqwKcot6XCAKr860w-15" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;">
           <mxGeometry as="geometry" height="370" width="330" y="260" x="1240"/>
