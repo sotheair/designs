@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T09:06:56.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="V-qF9Ib6s--acS_Q2icj" pages="1">
+<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T09:12:09.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="K7mSPKu1CB9KoFknJbqP" pages="1">
   <diagram id="ndU5bFHhsBsMHuEpMbfa" name="Page-1">
     <mxGraphModel grid="1" dx="1088" dy="594" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry as="geometry" x="60" y="390" width="200" height="77"/>
         </mxCell>
         <mxCell id="EUVz_Q0twUGAYVsJMNnv-2" value="" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1">
-          <mxGeometry as="geometry" x="390" y="260" width="750" height="580"/>
+          <mxGeometry as="geometry" x="390" y="260" width="750" height="1000"/>
         </mxCell>
         <mxCell id="EUVz_Q0twUGAYVsJMNnv-3" value="&lt;h1&gt;Mid Layer Platform&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1">
           <mxGeometry as="geometry" x="415" y="291" width="250" height="120"/>
@@ -78,6 +78,18 @@
         </mxCell>
         <mxCell id="EUVz_Q0twUGAYVsJMNnv-20" value="Business relationship" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1">
           <mxGeometry as="geometry" x="1080" y="660" width="130" height="30"/>
+        </mxCell>
+        <mxCell id="EUVz_Q0twUGAYVsJMNnv-21" value="Common Service Center - SS" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="417.5" y="810" width="245" height="395"/>
+        </mxCell>
+        <mxCell id="EUVz_Q0twUGAYVsJMNnv-22" value="Order Center " parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="820" y="777.5" width="205" height="65"/>
+        </mxCell>
+        <mxCell id="EUVz_Q0twUGAYVsJMNnv-23" value="Order Center " parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="820" y="870" width="205" height="65"/>
+        </mxCell>
+        <mxCell id="EUVz_Q0twUGAYVsJMNnv-24" value="Order Center " parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" x="820" y="970" width="205" height="65"/>
         </mxCell>
       </root>
     </mxGraphModel>
