@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T09:23:54.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="0kIyESOc0aYGHaYPGwf0" pages="1">
+<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T09:24:50.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="EoHAn9Htg_2y3aIHdQCc" pages="1">
   <diagram id="ndU5bFHhsBsMHuEpMbfa" name="Page-1">
     <mxGraphModel grid="1" dx="1554" dy="849" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry as="geometry" x="415" y="320" width="250" height="39"/>
         </mxCell>
         <mxCell id="EUVz_Q0twUGAYVsJMNnv-4" value="Common Service Center - API Gate way" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
-          <mxGeometry as="geometry" x="415" y="385" width="245" height="615"/>
+          <mxGeometry as="geometry" x="460" y="388.5" width="245" height="615"/>
         </mxCell>
         <mxCell id="EUVz_Q0twUGAYVsJMNnv-6" value="Order Center " parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
           <mxGeometry as="geometry" x="820" y="385" width="250" height="65"/>
