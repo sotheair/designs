@@ -1,6 +1,6 @@
-<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T08:04:14.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="YA3etdFwK2QJtbfJC8PD" pages="1">
+<mxfile type="github" version="12.1.9" host="www.draw.io" modified="2019-10-31T08:05:15.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="wSVEjjGt6Rb8B74gRNmH" pages="1">
   <diagram id="MQAHFbbfDHAqXE929brh" name="Page-1">
-    <mxGraphModel grid="1" dx="1554" dy="849" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="1280" dy="699" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -11,7 +11,7 @@
           <mxGeometry as="geometry" height="580" width="750" y="260" x="390"/>
         </mxCell>
         <mxCell id="2I_Xf8qAkBCNeDOOvv6f-3" value="&lt;h1&gt;Mid Layer Platform&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;">
-          <mxGeometry as="geometry" height="120" width="250" y="270" x="410"/>
+          <mxGeometry as="geometry" height="120" width="250" y="291" x="415"/>
         </mxCell>
         <mxCell id="2I_Xf8qAkBCNeDOOvv6f-4" value="Common Service Center - API Gate way" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="395" width="245" y="385" x="415"/>
@@ -26,7 +26,7 @@
           <mxGeometry as="geometry" height="580" width="330" y="260" x="1240"/>
         </mxCell>
         <mxCell id="2I_Xf8qAkBCNeDOOvv6f-8" value="&lt;h1&gt;Backend Systems&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;">
-          <mxGeometry as="geometry" height="120" width="250" y="265" x="1270"/>
+          <mxGeometry as="geometry" height="120" width="250" y="291" x="1260"/>
         </mxCell>
         <mxCell id="2I_Xf8qAkBCNeDOOvv6f-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Libra&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="394" width="245" y="386" x="1284"/>
