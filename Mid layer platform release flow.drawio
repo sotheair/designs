@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-11T08:18:14.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="EFEexWWNT9xMI5TvSv9k" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T08:19:21.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="4FnilfYnqTMGbucGKucm" version="12.2.3" type="github" pages="1">
   <diagram id="5qH7znrg4a5zOn3isVv2" name="Release flow">
     <mxGraphModel dx="1315" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,14 +171,14 @@
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-108" value="Starbucks Middle Layer Platform Release Flow 0.9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="660" y="-170" width="630" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="JBRAxDGxRT8pR8L-ADlC-109" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.592;entryY=-0.033;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="JBRAxDGxRT8pR8L-ADlC-110" target="JBRAxDGxRT8pR8L-ADlC-48">
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-109" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JBRAxDGxRT8pR8L-ADlC-110" target="yajSgocMUXoN1iImktwN-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="878" y="185" as="sourcePoint"/>
             <mxPoint x="814" y="269.02" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-110" value="&lt;p style=&quot;margin: 10px 0px 0px 10px ; text-align: left ; font-size: 10px&quot;&gt;If QA team is invoked, test notes or suggestion from QA team will be appended to release note.&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="717" y="115" width="230" height="55" as="geometry"/>
+          <mxGeometry x="662" y="405" width="230" height="55" as="geometry"/>
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-112" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;quot;arial&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , &amp;quot;\\5fae软雅黑&amp;quot; , &amp;quot;\\5b8b体&amp;quot; , &amp;quot;malgun gothic&amp;quot; , &amp;quot;meiryo&amp;quot; , sans-serif ; font-size: 14px ; line-height: 21px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Preparation Phase&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fontFamily=Verdana;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="108" y="-40" width="154" height="30" as="geometry"/>
@@ -220,7 +220,7 @@
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-133" value="&lt;font color=&quot;#990000&quot;&gt;Loop&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontFamily=Verdana;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="631" y="320" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="JBRAxDGxRT8pR8L-ADlC-127" value="&lt;p style=&quot;margin: 10px 0px 0px 10px ; text-align: left ; font-size: 10px&quot;&gt;Send CR with mail attach release plan and note reference. Release note will be locked.&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-127" value="&lt;p style=&quot;margin: 10px 0px 0px 10px ; text-align: left ; font-size: 10px&quot;&gt;Send CR with mail attach release plan and note reference. &lt;b&gt;Release note will be locked.&lt;/b&gt;&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1125" y="120" width="230" height="60" as="geometry"/>
         </mxCell>
       </root>
