@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-11T02:23:54.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="fGFEFYweRRwsdKyv_Aqt" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T02:36:22.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="NPuXYnZ-6IozX75dzL8f" version="12.2.3" type="github" pages="1">
   <diagram id="5qH7znrg4a5zOn3isVv2" name="Page-1">
     <mxGraphModel dx="626" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,18 +8,16 @@
           <mxGeometry x="90" y="190" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="yajSgocMUXoN1iImktwN-3" value="QA Testing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="353" y="340" width="120" height="60" as="geometry"/>
+          <mxGeometry x="930" y="310" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="JBRAxDGxRT8pR8L-ADlC-36" value="&lt;span style=&quot;white-space: normal&quot;&gt;Release plan should include schedule, version, business owner etc.&lt;/span&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="70" width="230" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="JBRAxDGxRT8pR8L-ADlC-38" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" source="JBRAxDGxRT8pR8L-ADlC-36" target="JBRAxDGxRT8pR8L-ADlC-40" parent="1">
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-38" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="JBRAxDGxRT8pR8L-ADlC-45" target="JBRAxDGxRT8pR8L-ADlC-40" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="110" as="sourcePoint"/>
             <mxPoint x="323.75" y="170" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-39" value="Check code to SBUX git &lt;font color=&quot;#990000&quot;&gt;staging&lt;/font&gt; branch" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="500" y="190" width="120" height="60" as="geometry"/>
+          <mxGeometry x="760" y="190" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-40" value="Build release note" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="120" height="60" as="geometry"/>
@@ -27,10 +25,31 @@
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-43" value="&lt;p style=&quot;margin: 10px 0px 0px 10px ; text-align: left ; font-size: 10px&quot;&gt;Release plan should include schedule, version, business owner etc.&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="230" height="50" as="geometry"/>
         </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-45" value="&lt;p style=&quot;margin: 10px 0px 0px 10px ; text-align: left ; font-size: 10px&quot;&gt;Release note should include head information, items need to publish, db script and rollback plan if necessary.&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="430" y="80" width="230" height="60" as="geometry"/>
+        </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-44" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.825;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JBRAxDGxRT8pR8L-ADlC-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="199" y="201.98000000000002" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-47" value="CR" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-48" value="Features Testing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="930" y="190" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-49" value="Update release note with test notes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="190" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-50" value="Merge code to SBUX git &lt;font color=&quot;#990000&quot;&gt;prod&amp;nbsp;&lt;/font&gt;branch" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="190" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-51" value="CICD to prod environment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="190" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-52" value="Happy path verification" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="190" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
