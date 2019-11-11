@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-11T03:36:35.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="R8dpot-RBvnHNymq1yUC" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T03:39:51.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="7Pd7NbuEtkRfbZEG3ULq" version="12.2.3" type="github" pages="1">
   <diagram id="5qH7znrg4a5zOn3isVv2" name="Page-1">
     <mxGraphModel dx="1315" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="yajSgocMUXoN1iImktwN-1" value="Build release plan from backlog" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="190" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="JBRAxDGxRT8pR8L-ADlC-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=10;dashed=1;" edge="1" parent="1" source="yajSgocMUXoN1iImktwN-3" target="JBRAxDGxRT8pR8L-ADlC-49">
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=10;" edge="1" parent="1" source="yajSgocMUXoN1iImktwN-3" target="JBRAxDGxRT8pR8L-ADlC-49">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="yajSgocMUXoN1iImktwN-3" value="QA Testing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -179,6 +179,15 @@
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-108" value="Starbucks Middle Layer Platform Release Flow 0.9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="660" y="-70" width="630" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-109" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.592;entryY=-0.033;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="JBRAxDGxRT8pR8L-ADlC-110" target="JBRAxDGxRT8pR8L-ADlC-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1056" y="185" as="sourcePoint"/>
+            <mxPoint x="992" y="269.02" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-110" value="&lt;p style=&quot;margin: 10px 0px 0px 10px ; text-align: left ; font-size: 10px&quot;&gt;If QA team is invoked, test notes or suggestion from QA team will be appended to release note.&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="895" y="115" width="230" height="55" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
