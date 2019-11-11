@@ -1,1 +1,19 @@
-<mxfile host="www.draw.io" modified="2019-11-11T02:05:05.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="ykJsqVYigPb28LU4QxIq" version="12.2.3" type="github" pages="1"><diagram id="5qH7znrg4a5zOn3isVv2" name="Page-1">zVVRb5swEP41PHYCrJH0cSXdOmmtNKXT9uriC3g1PmabkezX7wwmhIRKm9RJewHfd+c733efIWJ5vf9geFPdowAVpbHYR2wTpWmWZvT0wCEA69UAlEaKAUomYCt/QQDjgLZSgJ0FOkTlZDMHC9QaCjfDuDHYzcN2qOZVG17CBbAtuLpEv0rhqgFdp6sJvwNZVmPlJLsePDUfg0MntuICuxOI3UYsN4huWNX7HJTnbuRl2Pf+Be/xYAa0+5MNB/59W2Jx/+UbPiTyY/3suoerkOUnV21oOBzWHUYGDLZagE+SROymq6SDbcML7+1o5IRVrlbBHdKBcbB/8ZzJsXtSDWANzhwoJGy4DnwFwSSj3U30JyOn1Qn1WcB4mHh5zDyRQovAy19wlC5wlCnnG6dOstKv7oALqcvRQXUm3wg2I/AJDdS+amNb/xao0HjSpfPnp1NHaT5o2pKmwbXeSwUaaWXRl4lByRBlaTY+hwdla2v0poO66XNKXUghRat96tY/FH+i+j7ajbWh12upuS+j5I+WvznppJkaOZMGDdnN52+dwWfI+4bYRqOmyJudVOoMsqQg3wjbvJ2sRyQ1ba5ouMs6Q9LVTvV3qJJCgCZsUmf8OvJbn8kvXpDfakF+638lP3Yhv8/vyH4E63op/F/XlS3x9UrXlczpc9n7Tv457PY3</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-11T02:07:58.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="AFJLDBcI3EuyiQ7mmodC" version="12.2.3" type="github" pages="1">
+  <diagram id="5qH7znrg4a5zOn3isVv2" name="Page-1">
+    <mxGraphModel dx="626" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="yajSgocMUXoN1iImktwN-1" value="Build release plan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="190" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yajSgocMUXoN1iImktwN-2" value="&lt;h1&gt;Release plan&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="yajSgocMUXoN1iImktwN-3" value="QA Testing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="300" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
