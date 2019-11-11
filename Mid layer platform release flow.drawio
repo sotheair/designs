@@ -1,17 +1,17 @@
-<mxfile host="www.draw.io" modified="2019-11-11T02:12:03.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="mCd-lRn5v-lyD0Ghlprl" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T02:15:56.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="kLH7w9z-85sYgHOqGrj4" version="12.2.3" type="github" pages="1">
   <diagram id="5qH7znrg4a5zOn3isVv2" name="Page-1">
     <mxGraphModel dx="626" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="yajSgocMUXoN1iImktwN-1" value="Build release plan" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="yajSgocMUXoN1iImktwN-1" value="Build release plan from backlog" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="190" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="yajSgocMUXoN1iImktwN-3" value="QA Testing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="300" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="JBRAxDGxRT8pR8L-ADlC-36" value="&lt;p style=&quot;margin: 0px ; margin-top: 10px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="160" y="90" width="230" height="80" as="geometry"/>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-36" value="&lt;p style=&quot;margin: 10px 0px 0px 10px ; text-align: left ; font-size: 10px&quot;&gt;Release plan should include schedule, version, business owner etc.&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="230" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-38" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.825;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="JBRAxDGxRT8pR8L-ADlC-36" target="yajSgocMUXoN1iImktwN-1" parent="1">
           <mxGeometry relative="1" as="geometry">
