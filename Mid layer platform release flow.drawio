@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-11T08:07:39.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="RGUpQUL1SsW1YvhfzmwY" version="12.2.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-11T08:17:12.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Xw5G5JOvJtgb5hFQ-bcb" version="12.2.3" type="github" pages="1">
   <diagram id="5qH7znrg4a5zOn3isVv2" name="Release flow">
     <mxGraphModel dx="1315" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0"/>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-114" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=22;align=left;dashed=1;dashPattern=1 4;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="552" y="-60" width="748" height="450" as="geometry"/>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-132" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=22;align=left;fillColor=#ffe6cc;strokeWidth=2;strokeColor=#d79b00;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="450" height="230" as="geometry"/>
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-120" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=22;align=left;dashed=1;dashPattern=1 4;fillColor=none;strokeWidth=2;strokeColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="1341" y="-60" width="569" height="450" as="geometry"/>
@@ -105,7 +108,7 @@
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-73" value="CICD" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="160" y="550" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="JBRAxDGxRT8pR8L-ADlC-78" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.6;entryY=0.067;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="JBRAxDGxRT8pR8L-ADlC-79" target="JBRAxDGxRT8pR8L-ADlC-39">
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-78" value="" style="rounded=0;html=1;labelBackgroundColor=none;endArrow=none;dashed=1;entryX=0.608;entryY=-0.05;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="JBRAxDGxRT8pR8L-ADlC-79" target="JBRAxDGxRT8pR8L-ADlC-39">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="718" y="110" as="sourcePoint"/>
             <mxPoint x="652" y="190" as="targetPoint"/>
@@ -154,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-104" value="&lt;p style=&quot;margin: 10px 0px 0px 10px ; text-align: left ; font-size: 10px&quot;&gt;Mark release plan cart as completed by PM. Traffic switching.&amp;nbsp;&lt;/p&gt;" style="shape=note;html=1;size=15;spacingLeft=5;align=left;html=1;overflow=fill;whiteSpace=wrap;align=center;fontFamily=Helvetica;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="120" width="230" height="40" as="geometry"/>
+          <mxGeometry x="1533" y="120" width="230" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-105" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="1577" y="235" width="15" height="10" as="geometry"/>
@@ -216,6 +219,9 @@
         </mxCell>
         <mxCell id="JBRAxDGxRT8pR8L-ADlC-130" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=10;align=center;fillColor=#f8cecc;strokeColor=#b85450;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="1195" y="235" width="15" height="10" as="geometry"/>
+        </mxCell>
+        <mxCell id="JBRAxDGxRT8pR8L-ADlC-133" value="&lt;font color=&quot;#990000&quot;&gt;Loop&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontFamily=Verdana;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="631" y="320" width="40" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
