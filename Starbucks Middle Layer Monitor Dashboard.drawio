@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-14T09:54:00.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="iZOeVttNYZnYG6UKbeG4" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-14T09:54:35.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="62MtaXZ9YFAH3ijnlHVf" version="12.2.6" type="github" pages="1">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="-1023" dy="-7" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="744" value="Request count" style="text;spacingTop=-5;html=1;points=[];fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="2395" y="1040" width="80" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="749" value="Platform" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;html=1;points=[]" parent="1" vertex="1">
-          <mxGeometry x="2437.5" y="854.5" width="810" height="45" as="geometry"/>
+        <mxCell id="749" value="Mid Layer Monitor Dashboard" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=30;fontStyle=1;html=1;points=[]" parent="1" vertex="1">
+          <mxGeometry x="2543" y="900" width="810" height="45" as="geometry"/>
         </mxCell>
         <mxCell id="o6w3HR38CNkeLtD_eccx-752" value="" style="whiteSpace=wrap;fillColor=#12AAB5;gradientColor=none;gradientDirection=east;strokeColor=none;html=1;fontColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="2441" y="1285" width="12" height="70" as="geometry"/>
