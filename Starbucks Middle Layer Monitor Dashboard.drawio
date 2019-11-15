@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-15T08:33:08.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="sNVtBck9sEZ7ztpZDNX3" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T09:07:59.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="GgmNE7gRWL6zYQ4VIsJL" version="12.2.6" type="github" pages="1">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="-459" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="-1023" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1578,6 +1578,9 @@
         </mxCell>
         <mxCell id="Wl3PlyjCfCqaFqwn1Miz-1126" value="By default the graphic shows top 3 order order count by service type&amp;nbsp;&lt;br&gt;It supports searching by service type&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=1;dashed=1;comic=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="3527" y="1310" width="383" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Wl3PlyjCfCqaFqwn1Miz-1127" value="&lt;h1&gt;Note&lt;/h1&gt;&lt;p&gt;Normal after 3 mins the log written by service will be collected to ELK;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=1;dashed=1;comic=0;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="3525" y="1461" width="465" height="120" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
