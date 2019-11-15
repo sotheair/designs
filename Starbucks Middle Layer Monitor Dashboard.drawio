@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-15T07:48:52.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="FcvJAYalXv5xkdL_4nYh" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T07:50:36.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="qbPfs8Y1EdjAdFxk5VXV" version="12.2.6" type="github" pages="1">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="-459" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="-1431" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -1240,7 +1240,7 @@
         <mxCell id="Wl3PlyjCfCqaFqwn1Miz-881" value="10:30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontSize=10;fontColor=#000000;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="3316" y="1729.5" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Wl3PlyjCfCqaFqwn1Miz-882" value="&lt;h1&gt;API Gateway&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;dashPattern=1 2;comic=0;labelBackgroundColor=none;fontSize=10;opacity=0;" vertex="1" parent="1">
+        <mxCell id="Wl3PlyjCfCqaFqwn1Miz-882" value="&lt;h1&gt;Ordering Service&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;dashed=1;dashPattern=1 2;comic=0;labelBackgroundColor=none;fontSize=10;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="2391" y="1410" width="432" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="Wl3PlyjCfCqaFqwn1Miz-883" value="" style="whiteSpace=wrap;fillColor=#a20025;gradientDirection=east;strokeColor=#6F0000;html=1;fontColor=#ffffff;" vertex="1" parent="1">
