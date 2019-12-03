@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:18:42.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="Or2DCZ-QN-2DWql0YjtZ" pages="1">
+<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:19:16.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="sotOaZs1d8oTpY0kWKUT" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel grid="1" dx="1360" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry as="geometry" height="50" width="150" y="475" x="995"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-11" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;">
-          <mxGeometry as="geometry" height="170" width="830" y="617.5" x="49"/>
+          <mxGeometry as="geometry" height="170" width="830" y="615.5" x="49"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-12" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="262" width="832" y="818" x="48"/>
@@ -44,10 +44,10 @@
           <mxGeometry as="geometry" height="20" width="645" y="70" x="305"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery ability.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
-          <mxGeometry as="geometry" height="77" width="610" y="630.5" x="79"/>
+          <mxGeometry as="geometry" height="77" width="610" y="628.5" x="79"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Virtual Machine&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Gold image&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
-          <mxGeometry as="geometry" height="50" width="180" y="707.5" x="79"/>
+          <mxGeometry as="geometry" height="50" width="180" y="705.5" x="79"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-3" value="&lt;h1&gt;Infrastructure Layer&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
           <mxGeometry as="geometry" height="90" width="450" y="837.5" x="83"/>
@@ -65,7 +65,7 @@
           <mxGeometry as="geometry" height="50" width="150" y="1010" x="490.5"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Init/Redis/Sidecar/App&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
-          <mxGeometry as="geometry" height="50" width="188" y="707.5" x="286"/>
+          <mxGeometry as="geometry" height="50" width="188" y="705.5" x="286"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-3" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Redis&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#cc6600&quot; style=&quot;color: rgb(204 , 102 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px&quot;&gt;Your comment&lt;/font&gt;&lt;/font&gt;&amp;nbsp;&lt;b&gt;&lt;/b&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="50" width="168" y="932" x="681"/>
@@ -77,7 +77,7 @@
           <mxGeometry as="geometry" height="53" width="150" y="1007" x="278"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Kubernetes Cluster&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Containerized workload/services orchestration&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
-          <mxGeometry as="geometry" height="50" width="348" y="707.5" x="502"/>
+          <mxGeometry as="geometry" height="50" width="348" y="705.5" x="502"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Python&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Micro service programming language&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="50" width="150" y="500" x="75"/>
