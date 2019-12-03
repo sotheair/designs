@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:35:35.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="iVCyhNotWWuI9eYX9VBE" pages="1">
+<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:39:38.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="uZIetKWfSMm4rgVnTqJp" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel grid="1" dx="1572" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-9" value="ELK" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="50" width="150" y="565.5" x="1005"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-10" value="Dynatrace" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-10" value="Dynatrace&lt;br&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: rgb(248 , 249 , 250) ; color: rgb(204 , 102 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px&quot;&gt;VM level system monitor&lt;/span&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="50" width="150" y="667" x="1005"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-11" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;">
