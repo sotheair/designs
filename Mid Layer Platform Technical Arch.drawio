@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T04:43:13.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="R9bcMrrZU2tSpHwdXgKd" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T04:46:54.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="TVgWbbsvV7TRGMUAlfmc" version="12.3.5" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel dx="2411" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry x="285" y="420" width="150" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="180" width="260" height="1030" as="geometry"/>
+          <mxGeometry x="1190" y="180" width="280" height="1030" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-8" value="&lt;h1&gt;System Monitor&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="220" width="180" height="170" as="geometry"/>
+          <mxGeometry x="1230" y="220" width="200" height="170" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-9" value="Logging - ELK" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="400" width="150" height="50" as="geometry"/>
@@ -65,7 +65,7 @@
           <mxGeometry x="680" y="1010" width="150" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-1" value="和Libra 是一致的" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="623.5" width="110" height="20" as="geometry"/>
+          <mxGeometry x="-160" y="505" width="110" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-2" value="Container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="730" width="150" height="50" as="geometry"/>
@@ -81,6 +81,24 @@
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-6" value="Kubernetes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="730" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="TPeiZu6uO6-FCYARMxgd-7" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="380" as="sourcePoint"/>
+            <mxPoint x="1160" y="380" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPeiZu6uO6-FCYARMxgd-8" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="710" as="sourcePoint"/>
+            <mxPoint x="1170" y="710" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TPeiZu6uO6-FCYARMxgd-9" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="1019.5" as="sourcePoint"/>
+            <mxPoint x="1170" y="1019.5" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
