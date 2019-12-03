@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-03T09:17:43.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zaweok9LOy-TQmfyOXKJ" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T09:21:16.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="r0ekYmKE9yF7fBT3lO28" version="12.3.5" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
-    <mxGraphModel dx="1346" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1031" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -40,7 +40,7 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="780" width="835" height="330" as="geometry"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Mid Layer Platform Technical Architecture &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;1.0&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Middle Layer Platform Technical Architecture &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;1.0&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="305" y="70" width="630" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
