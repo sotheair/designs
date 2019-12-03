@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:16:39.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="9IJuO8D0fT34sgII6HAG" pages="1">
+<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:16:57.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="D5kUaW2HvESHbRahaQna" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel grid="1" dx="1360" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="XpRdO_wsKDuu55zvrnwc-3" value="&lt;h1&gt;Infrastructure Layer&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
           <mxGeometry as="geometry" height="90" width="450" y="837.5" x="83"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-4" value="&lt;font color=&quot;#660000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure VM&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;OS/run-time&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-4" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure VM&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;OS/run-time&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="50" width="150" y="931.5" x="78"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-5" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure Cosmos DB&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Mongo DB engine&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Transaction log&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
