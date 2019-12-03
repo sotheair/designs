@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T05:37:00.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="PMvgAinasEVz01fG23F4" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T05:37:46.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="D5CK7PVwDt0vdIUPY3JS" version="12.3.5" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel dx="1949" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="TPeiZu6uO6-FCYARMxgd-2" value="Container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="730" width="150" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="TPeiZu6uO6-FCYARMxgd-3" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TPeiZu6uO6-FCYARMxgd-3" value="Redis&lt;br&gt;Cache services to store app data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="1010" width="150" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-4" value="PostgreSQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
