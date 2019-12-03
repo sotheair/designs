@@ -1,1 +1,49 @@
-<mxfile host="www.draw.io" modified="2019-12-03T02:36:59.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="CA0Mi1_h1RRPe3AiLwNw" version="12.3.5" type="github" pages="1"><diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">7Vjfb5swEP5reOyE+Z3HJmm3h7aalGp7rDxwwJrB1Jgl2V+/OzAhJFTrpkRh0l4a/N3hu/v8uWdjuYt8+1HRMnuUCROWYydby11ajkP8yIMfRHYtMgv8FkgVT4xTD6z4T2ZA26A1T1g1cNRSCs3LIRjLomCxHmBUKbkZuq2lGEYtacpOgFVMxSn6lSc6a9HICXv8E+Np1kUmway15LRzNpVUGU3k5gBy7yx3oaTU7VO+XTCB5HW8tO/dv2HdJ6ZYod/zwsNL6TNiV09kzl6e1tGXaKFuzCw/qKhNwSZZvesYULIuEoaTEMudbzKu2aqkMVo3sOaAZToXxmymY0qz7Zt5kn31IBsmc6bVDlzMC77hywiGRGa86ekntmfA7IB7twOpWfN0P3dPCzwYZv6AJWeEpUBoLB1qCVJ8WlJN76UCXowJIvXWDiw74EEqlmPcsqrxN5FCKiSea6wA8racRavrCnTNdI1WmvCSVzzmRQojJrjxqmB9cA4EeV3lEoea5WUzJy9invCkLnDqGv8I+g3io7fuYrNGs2lBMYzgrzX9cFBJ2RdyJA9YaD3UQKWV/M4WTUHuspAFeM7XXIgjqAIVYSHu0u9HzxIUtbwBLY9rTYK21qLZRxlPElYA1ivUPo8Ew6EEHftUgp47okBiX0qB7vT26WxI0n73He5Tf4Qk/1IceZPnyHOuzZE/PY6cyJ+YkILpk3R9JYXTI4mQ2e/PDk40wlLoXoqm6B1Hh9Wu0s1h4FEWXGPL/n+C+MdPEMRxj84QYxt2TIokvJQUZxPcsXtadkcb8Wr/17qL56RpisjVaZr+zXH/7WFwcxxjiXjBpWgauzpOi6ZwNqKlcZqci6lp7H7Tto61bJpOz1fwWsvOcFM1H4xuwcHxym1v7JrNI8c+9kB3DNvYZ0H1Wirsls8szgoeU0ztVsVIegwd8vD23kY+e9OC1phCz1nGsFyQlTvHxcRMbo0hh66EYUalMOxUmOLKJEXOIA2PHGnjVBp+OKKMvxAGDPtvX43t4Auie/cL</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-03T02:39:09.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1Xn6bucS0fn-g9HFDS8m" version="12.3.5" type="github" pages="1">
+  <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
+    <mxGraphModel dx="1346" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="1040" height="340" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-2" value="&lt;h1&gt;DataForce&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="200" width="430" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-3" value="Istio/Service mesh" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="340" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="420" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="340" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="420" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="180" width="260" height="730" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-8" value="&lt;h1&gt;System Monitor&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="220" width="180" height="170" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-9" value="Logging - ELK" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="400" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-10" value="Monitoring - Dynatrace" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="480" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="584" width="1050" height="146" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="790" width="1050" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Mid Layer Platform Technical Architecture&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="410" y="70" width="570" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
