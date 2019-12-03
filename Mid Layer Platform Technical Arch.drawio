@@ -1,6 +1,6 @@
-<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:22:20.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="EypwZeXS8C2o-hGFe50U" pages="1">
+<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:25:24.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="KOn8ffw0bqeX1tkhwf7t" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
-    <mxGraphModel grid="1" dx="1360" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="1874" dy="905" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -40,8 +40,8 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-12" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="262" width="832" y="818" x="48"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Middle Layer Platform Technical Architecture &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;1.0&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1">
-          <mxGeometry as="geometry" height="20" width="645" y="70" x="305"/>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Middle Layer Platform Technical Architecture&lt;/font&gt;&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;1.0&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1">
+          <mxGeometry as="geometry" height="20" width="815" y="70" x="233"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery ability.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
           <mxGeometry as="geometry" height="77" width="610" y="628.5" x="79"/>
