@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T09:30:08.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="aXqYwF5wpO-1pPr8LQP0" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T09:32:36.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RclRnQjL7zniwlV2SLan" version="12.3.5" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel dx="1031" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,8 +43,8 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Middle Layer Platform Technical Architecture &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;1.0&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="305" y="70" width="630" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="543" width="490" height="93" as="geometry"/>
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="543" width="560" height="77" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-2" value="Virtual Machine&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="653" width="150" height="50" as="geometry"/>
@@ -52,10 +52,10 @@
         <mxCell id="XpRdO_wsKDuu55zvrnwc-3" value="&lt;h1&gt;Infrastructure Layer&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="800" width="450" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-4" value="Azure VM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-4" value="Azure VM&lt;br&gt;OS/run-time" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="75" y="910" width="150" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-5" value="Azure Cosmos DB" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-5" value="Azure Cosmos DB&lt;br&gt;Mongo DB engine" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="910" width="150" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-6" value="Azure HDInsight" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
