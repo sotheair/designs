@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:25:24.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="KOn8ffw0bqeX1tkhwf7t" pages="1">
+<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:29:47.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="0QAm4HdEPnRUvvg0H8P4" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel grid="1" dx="1874" dy="905" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,11 +28,11 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-8" value="&lt;h1&gt;System Monitor&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
           <mxGeometry as="geometry" height="170" width="200" y="215" x="1005"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-9" value="Logging - ELK" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
-          <mxGeometry as="geometry" height="50" width="150" y="395" x="995"/>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-9" value="ELK" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
+          <mxGeometry as="geometry" height="50" width="150" y="565.5" x="1005"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-10" value="Monitoring - Dynatrace" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
-          <mxGeometry as="geometry" height="50" width="150" y="475" x="995"/>
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-10" value="Dynatrace" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
+          <mxGeometry as="geometry" height="50" width="150" y="667" x="1005"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-11" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;">
           <mxGeometry as="geometry" height="170" width="830" y="615.5" x="49"/>
@@ -120,6 +120,12 @@
         </mxCell>
         <mxCell id="nO3LAVPIE8S7qI5vrqDk-10" value="&lt;b&gt;Font&lt;/b&gt; with color indicates PaaS in Azure" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="305" y="1190.5" x="78"/>
+        </mxCell>
+        <mxCell id="nO3LAVPIE8S7qI5vrqDk-11" value="Git" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
+          <mxGeometry as="geometry" height="50" width="150" y="370" x="1005"/>
+        </mxCell>
+        <mxCell id="nO3LAVPIE8S7qI5vrqDk-12" value="Jenkins" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
+          <mxGeometry as="geometry" height="50" width="150" y="470" x="1005"/>
         </mxCell>
       </root>
     </mxGraphModel>
