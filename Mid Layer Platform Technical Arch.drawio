@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:17:30.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="2NK4aeBJHECDy8cC9Hje" pages="1">
+<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T16:18:42.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="Or2DCZ-QN-2DWql0YjtZ" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel grid="1" dx="1360" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,11 +109,17 @@
         <mxCell id="nO3LAVPIE8S7qI5vrqDk-4" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;HBase&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;text-align: center ; color: rgb(204 , 102 , 0) ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; white-space: normal ; float: none&quot;&gt;Your comment&lt;/span&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="50" width="168" y="1010" x="681"/>
         </mxCell>
-        <mxCell id="nO3LAVPIE8S7qI5vrqDk-5" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;">
+        <mxCell id="nO3LAVPIE8S7qI5vrqDk-5" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;">
           <mxGeometry as="geometry" height="20" width="20" y="1158" x="48"/>
         </mxCell>
-        <mxCell id="nO3LAVPIE8S7qI5vrqDk-6" value="&lt;b&gt;Font&lt;/b&gt; with color indicates enhancement or customization" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
+        <mxCell id="nO3LAVPIE8S7qI5vrqDk-6" value="&lt;b&gt;Font&lt;/b&gt; with color indicates IaaS in Azure" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="305" y="1158.5" x="78"/>
+        </mxCell>
+        <mxCell id="nO3LAVPIE8S7qI5vrqDk-9" value="" parent="1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#336600;">
+          <mxGeometry as="geometry" height="20" width="20" y="1190" x="48"/>
+        </mxCell>
+        <mxCell id="nO3LAVPIE8S7qI5vrqDk-10" value="&lt;b&gt;Font&lt;/b&gt; with color indicates PaaS in Azure" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
+          <mxGeometry as="geometry" height="20" width="305" y="1190.5" x="78"/>
         </mxCell>
       </root>
     </mxGraphModel>
