@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T15:46:14.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="_3-_Fq7-dA_384KKaSH3" pages="1">
+<mxfile type="github" version="12.3.6" host="www.draw.io" modified="2019-12-03T15:47:55.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="Dc9aBfCYZJ8eZBWXhx2p" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel grid="1" dx="1360" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-10" value="Monitoring - Dynatrace" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="50" width="150" y="475" x="995"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-11" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-11" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;">
           <mxGeometry as="geometry" height="170" width="830" y="530" x="50"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-12" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
@@ -43,8 +43,8 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Middle Layer Platform Technical Architecture &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;1.0&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1">
           <mxGeometry as="geometry" height="20" width="645" y="70" x="305"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
-          <mxGeometry as="geometry" height="77" width="560" y="543" x="80"/>
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery ability.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
+          <mxGeometry as="geometry" height="77" width="610" y="543" x="80"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Virtual Machine&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Gold image&lt;/font&gt;" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;">
           <mxGeometry as="geometry" height="50" width="180" y="620" x="80"/>
