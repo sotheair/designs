@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-03T09:09:03.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="lKBTnwdVgaHwoj36E4C_" version="12.3.5" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-03T09:09:29.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="u06yQaYcwXQdCs2C9U7s" version="12.3.5" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel dx="1346" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,10 +94,10 @@
         <mxCell id="TPeiZu6uO6-FCYARMxgd-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;" vertex="1" parent="1">
           <mxGeometry x="45" y="1177.5" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="TPeiZu6uO6-FCYARMxgd-18" value="Font with color indicates responsibility" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TPeiZu6uO6-FCYARMxgd-18" value="&lt;b&gt;Font &lt;/b&gt;with color indicates responsibility" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="1150" width="235" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="TPeiZu6uO6-FCYARMxgd-19" value="Font with color indicates enhancement or customization" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TPeiZu6uO6-FCYARMxgd-19" value="&lt;b&gt;Font&lt;/b&gt; with color indicates enhancement or customization" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="1178" width="305" height="20" as="geometry"/>
         </mxCell>
       </root>
