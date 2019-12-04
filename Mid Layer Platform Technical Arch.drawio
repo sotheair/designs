@@ -1,4 +1,4 @@
-<mxfile etag="A7QM95gxVTRMeSSP2Vsw" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-04T03:11:23.188Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
+<mxfile etag="dxayq_ieyWo2gq5P0ZrA" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-04T07:56:01.114Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel dx="1133" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="XpRdO_wsKDuu55zvrnwc-5" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure Cosmos DB&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Mongo DB engine&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Transaction log&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="278" y="931.5" width="150" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-6" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure HDInsight&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;text-align: center ; color: rgb(204 , 102 , 0) ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; white-space: normal ; float: none&quot;&gt;Your comment&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="488" y="932" width="150" height="50" as="geometry"/>
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-6" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure HDInsight&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Data Persistence&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="488" y="930" width="150" height="52" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-7" value="&lt;b&gt;&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;Azure KeyVault&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Secrets, key and certificate management&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490.5" y="1010" width="150" height="50" as="geometry"/>
