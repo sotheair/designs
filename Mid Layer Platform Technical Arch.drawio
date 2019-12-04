@@ -1,4 +1,4 @@
-<mxfile etag="8o5tcMMvwyCxUfq0AwZ5" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-04T02:50:57.556Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
+<mxfile etag="CEDBVWy9J9_MH1oUZ6l3" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-04T02:55:37.715Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel dx="1133" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="XpRdO_wsKDuu55zvrnwc-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Virtual Machine&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Gold image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="79" y="705.5" width="180" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-3" value="&lt;h1&gt;Infrastructure Layer&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-3" value="&lt;h1&gt;Infrastructure Layer&lt;/h1&gt;&lt;p&gt;Base on Microsoft Azure IaaS/PasaS.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="83" y="837.5" width="450" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-4" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure VM&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Hardware/OS/run-time&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
