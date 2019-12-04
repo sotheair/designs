@@ -1,4 +1,4 @@
-<mxfile etag="S-O8cLDmgxPZb0Mx771T" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-04T08:42:59.641Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
+<mxfile etag="6uEtCKEsiZViYlqEsqeu" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-04T08:43:17.487Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Page-1">
     <mxGraphModel dx="1133" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="370" y="278.5" width="280" height="93" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="960" y="176" width="255" height="744" as="geometry"/>
+          <mxGeometry x="960" y="176" width="255" height="654" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-8" value="&lt;h1&gt;Engineering&lt;/h1&gt;&lt;p&gt;Sharded by Starbucks technology:&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="987" y="200" width="200" height="70" as="geometry"/>
