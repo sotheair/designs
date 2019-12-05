@@ -1,4 +1,4 @@
-<mxfile etag="kMWoWZGoKZT2lRjcuODd" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-05T03:26:39.905Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
+<mxfile etag="jDgTwFDGBcTTg9xdq0Zi" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-05T03:28:00.654Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Arch.">
     <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery ability.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="408" width="610" height="77" as="geometry"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Virtual Machine&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Gold image&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(patching and container runtime)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Virtual Machine&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Golden image&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(patching and container runtime)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="485" width="250" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-3" value="&lt;h1&gt;Infrastructure Layer&lt;/h1&gt;&lt;p&gt;Base on Microsoft Azure IaaS/PasaS.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
