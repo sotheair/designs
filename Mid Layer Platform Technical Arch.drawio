@@ -1,4 +1,4 @@
-<mxfile etag="bVhRZeOE9Lg6a5zUSFvj" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-05T02:00:45.996Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
+<mxfile etag="lxgvzlo_SoERESGPXuw6" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-05T02:02:31.015Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Arch.">
     <mxGraphModel dx="1360" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="280" width="270" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;OpenResty&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Api gateway&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#000099&quot;&gt;Enhance token, access control and logging system&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="375" y="279" width="245" height="93" as="geometry"/>
+          <mxGeometry x="372" y="279" width="215" height="93" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="176" width="255" height="614" as="geometry"/>
@@ -41,7 +41,7 @@
           <mxGeometry x="80" y="408" width="610" height="77" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Virtual Machine&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Gold image&lt;b&gt;&lt;i&gt; (补充说明)&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="485" width="180" height="50" as="geometry"/>
+          <mxGeometry x="80" y="485" width="250" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-3" value="&lt;h1&gt;Infrastructure Layer&lt;/h1&gt;&lt;p&gt;Base on Microsoft Azure IaaS/PasaS.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="84" y="579" width="450" height="68" as="geometry"/>
@@ -59,7 +59,7 @@
           <mxGeometry x="480.5" y="727" width="150" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Container&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Init, Redis, Sidecar,&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;Consul, Pilot and&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot;&gt;App&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="287" y="486" width="188" height="50" as="geometry"/>
+          <mxGeometry x="367.5" y="483" width="215" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#006633&quot;&gt;Redis&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#cc6600&quot; face=&quot;helvetica&quot;&gt;Application&amp;nbsp;distributed&amp;nbsp;cache&lt;/font&gt;&amp;nbsp;&lt;b&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="682" y="646" width="168" height="49" as="geometry"/>
@@ -71,10 +71,10 @@
           <mxGeometry x="279" y="724" width="150" height="53" as="geometry"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Kubernetes Cluster&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Containerized workload/services orchestration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="503" y="485" width="348" height="50" as="geometry"/>
+          <mxGeometry x="620" y="482" width="231" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Python&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Micro service programming language&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="280" width="190" height="90" as="geometry"/>
+          <mxGeometry x="620" y="280" width="230" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="TPeiZu6uO6-FCYARMxgd-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="50" y="810" width="20" height="20" as="geometry"/>
