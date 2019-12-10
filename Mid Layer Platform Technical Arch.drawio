@@ -1,6 +1,6 @@
-<mxfile etag="c-S3IGKpvV62nkKphBVl" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-10T09:47:49.937Z" host="www.draw.io" version="12.3.9" type="github" pages="1">
+<mxfile etag="j1g6rDX1TR7QeWu4WZKX" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-10T16:29:09.661Z" host="www.draw.io" version="12.3.9" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Arch.">
-    <mxGraphModel dx="1812" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="648" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -49,7 +49,7 @@
         <mxCell id="XpRdO_wsKDuu55zvrnwc-4" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure VM&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Hardware/OS/run-time/dynatrace agent etc.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="79" y="648.5" width="150" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-5" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure Cosmos DB&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Mongo DB engine&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Transaction log&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-5" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure Cosmos DB&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Mongo DB engine&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Transaction log&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="279" y="648.5" width="150" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-6" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure HDInsight&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;HBase data persistence&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -109,13 +109,13 @@
         <mxCell id="zd5kZjMcYwaHYKNUAhb1-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;...&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1013" y="633" width="150" height="47" as="geometry"/>
         </mxCell>
-        <mxCell id="OdHl_k0M9Qm8LNJqaKVV-2" value="&lt;span style=&quot;display: inline ; float: none ; background-color: rgb(248 , 249 , 250) ; font-style: normal ; font-variant: normal ; letter-spacing: normal ; text-align: center ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; font-size: 14px&quot;&gt;&lt;b&gt;Kong&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot; face=&quot;helvetica&quot;&gt;Edge Api gateway&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OdHl_k0M9Qm8LNJqaKVV-2" value="&lt;span style=&quot;display: inline ; float: none ; background-color: rgb(248 , 249 , 250) ; font-style: normal ; font-variant: normal ; letter-spacing: normal ; text-align: center ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; font-size: 14px&quot;&gt;&lt;b&gt;Kong&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot; face=&quot;helvetica&quot;&gt;Edge Api gateway&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1012" y="559" width="150" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="OdHl_k0M9Qm8LNJqaKVV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="OdHl_k0M9Qm8LNJqaKVV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="46" y="826.5" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="OdHl_k0M9Qm8LNJqaKVV-4" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates middle layer platform scope" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OdHl_k0M9Qm8LNJqaKVV-4" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates middle layer platform scope" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="76" y="827" width="344" height="20" as="geometry"/>
         </mxCell>
       </root>
