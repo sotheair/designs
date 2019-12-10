@@ -1,4 +1,4 @@
-<mxfile etag="L1PUfzYo7CNmJmVjeR6U" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-10T09:28:37.477Z" host="www.draw.io" version="12.3.9" type="github" pages="1">
+<mxfile etag="u-XRQItVlLGOYQYA4jvR" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-10T09:29:09.103Z" host="www.draw.io" version="12.3.9" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Arch.">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="50" y="395" width="830" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="49" y="560" width="832" height="228" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Middle Layer Platform Technical Architecture&lt;/font&gt;&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#006633&quot;&gt;1.0&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
