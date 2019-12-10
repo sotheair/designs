@@ -1,13 +1,13 @@
-<mxfile etag="UmDgG_73DIpdj8ufdTXl" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-05T03:35:21.226Z" host="www.draw.io" version="12.3.6" type="github" pages="1">
+<mxfile etag="OVNNlXDdLuC_TxRMr02t" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-10T09:21:42.165Z" host="www.draw.io" version="12.3.9" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Arch.">
-    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="50" y="180" width="830" height="200" as="geometry"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-2" value="&lt;h1&gt;Application Layer&lt;/h1&gt;&lt;p&gt;Base on &lt;b&gt;DataForce&lt;/b&gt; solution and its foundation composes micro services.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-2" value="&lt;h1&gt;Platform Layer&lt;/h1&gt;&lt;p&gt;Base on &lt;b&gt;DataForce&lt;/b&gt; solution and its foundation composes micro services.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="200" width="430" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Istio&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Micro service foundation base on service mesh&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000099&quot;&gt;Enhance Envoy module to support logging localization, JuaJIT, socket communication and circuit break in API level&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
