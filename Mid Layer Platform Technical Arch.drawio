@@ -1,4 +1,4 @@
-<mxfile etag="pDlyOttQ9ngTeJ0JgU_w" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-10T09:27:56.904Z" host="www.draw.io" version="12.3.9" type="github" pages="1">
+<mxfile etag="L1PUfzYo7CNmJmVjeR6U" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" modified="2019-12-10T09:28:37.477Z" host="www.draw.io" version="12.3.9" type="github" pages="1">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Arch.">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,10 +113,10 @@
           <mxGeometry x="1012" y="559" width="150" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="OdHl_k0M9Qm8LNJqaKVV-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="46" y="822.5" width="20" height="20" as="geometry"/>
+          <mxGeometry x="46" y="826.5" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="OdHl_k0M9Qm8LNJqaKVV-4" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates middle layer platform scope" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="76" y="823" width="344" height="20" as="geometry"/>
+          <mxGeometry x="76" y="827" width="344" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
