@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T07:16:45.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="Gn9YLSUCWnMM9zEswmZ2" version="12.3.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-11T07:19:32.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="f8kWCncZc4vh4vxnIidM" version="12.3.9" type="github" pages="4">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1360" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ndU5bFHhsBsMHuEpMbfa" name="B - Order Center">
-    <mxGraphModel dx="1360" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dVhLQlLxH9juj035oDKz" name="B - PE">
-    <mxGraphModel dx="1360" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eTZUl91Vg5pEZXeEU_nN-0"/>
         <mxCell id="eTZUl91Vg5pEZXeEU_nN-1" parent="eTZUl91Vg5pEZXeEU_nN-0"/>
@@ -256,13 +256,13 @@
             <mxPoint x="1408.5" y="617.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="igLbW2o347uGfIWUB-C--16" value="Business relationship" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+        <mxCell id="igLbW2o347uGfIWUB-C--16" value="&lt;font color=&quot;#000099&quot;&gt;Business relationship&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="820" y="385" width="130" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="igLbW2o347uGfIWUB-C--17" value="Business relationship" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+        <mxCell id="igLbW2o347uGfIWUB-C--17" value="&lt;font color=&quot;#000099&quot;&gt;Business relationship&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="241" y="381" width="130" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="igLbW2o347uGfIWUB-C--19" value="Business relationship" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+        <mxCell id="igLbW2o347uGfIWUB-C--19" value="&lt;font color=&quot;#000099&quot;&gt;Business relationship&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="600" y="486.5" width="130" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="NdqWdVjN_joH7nmX93Dz-0" value="Owner:&lt;br&gt;Contact mail:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="igLbW2o347uGfIWUB-C--1">
