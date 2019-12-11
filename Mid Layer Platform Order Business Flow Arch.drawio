@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T07:12:30.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="cgL7X5_RvervZpIrnTBf" version="12.3.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-11T07:13:02.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="BnjfKptPsvz5RmhGBpFQ" version="12.3.9" type="github" pages="4">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1360" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
           <mxGeometry x="-20" y="260" width="310" height="400" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--2" value="&lt;b&gt;Invoice H5 Page/E-Invoice Mode&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
-          <mxGeometry x="10" y="370" width="230" height="77" as="geometry"/>
+          <mxGeometry y="370" width="240" height="77" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="370" y="260" width="500" height="400" as="geometry"/>
@@ -230,7 +230,7 @@
           <mxGeometry x="405" y="280" width="295" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--7" value="&lt;b&gt;Order Center &lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
-          <mxGeometry x="420" y="540" width="320" height="65" as="geometry"/>
+          <mxGeometry x="420" y="540" width="350" height="65" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#000000;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="980" y="260" width="330" height="400" as="geometry"/>
@@ -278,7 +278,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--6" value="&lt;b&gt;Invoice&amp;nbsp; Center&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
-          <mxGeometry x="420" y="383" width="320" height="80" as="geometry"/>
+          <mxGeometry x="420" y="383" width="350" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="tOsCHjYs-OenUiMLWLUY-2" value="&lt;h1&gt;Channels&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipi&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="igLbW2o347uGfIWUB-C--1">
           <mxGeometry y="280" width="250" height="85" as="geometry"/>
