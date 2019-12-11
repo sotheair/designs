@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T05:49:43.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="vBT5RTgw_F5dOW_HAxQj" version="12.3.9" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-11T05:52:04.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="xGaXuj2oIE3q4rdRdJHo" version="12.3.9" type="github" pages="3">
   <diagram id="ndU5bFHhsBsMHuEpMbfa" name="Order Center">
     <mxGraphModel dx="946" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J9_nsseORInc_kOMTHvB" name="Fapiao">
-    <mxGraphModel dx="788" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="igLbW2o347uGfIWUB-C--0"/>
         <mxCell id="igLbW2o347uGfIWUB-C--1" parent="igLbW2o347uGfIWUB-C--0"/>
@@ -215,7 +215,7 @@
         <mxCell id="igLbW2o347uGfIWUB-C--10" value="&lt;b&gt;E - Fapiao&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="1284" y="387" width="245" height="65" as="geometry"/>
         </mxCell>
-        <mxCell id="igLbW2o347uGfIWUB-C--11" value="Mid Layer Platform Invoice Business Flow Arch." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=45;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+        <mxCell id="igLbW2o347uGfIWUB-C--11" value="&lt;font style=&quot;font-weight: 700 ; font-size: 36px&quot;&gt;Middle Layer Platform Business Flow Architecture&lt;/font&gt;&lt;font style=&quot;font-size: 12px ; font-weight: 700&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=45;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="270" y="90" width="1070" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--12" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=45;exitX=0.997;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;" parent="igLbW2o347uGfIWUB-C--1" source="igLbW2o347uGfIWUB-C--2" target="igLbW2o347uGfIWUB-C--5" edge="1">
