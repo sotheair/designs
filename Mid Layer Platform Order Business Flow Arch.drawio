@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T06:24:52.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="60eLSAhtbQbqRBuoI8kT" version="12.3.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-11T06:25:24.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="hShyDaXETS2bYLxcdwYS" version="12.3.9" type="github" pages="4">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1360" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,7 +217,10 @@
       <root>
         <mxCell id="igLbW2o347uGfIWUB-C--0"/>
         <mxCell id="igLbW2o347uGfIWUB-C--1" parent="igLbW2o347uGfIWUB-C--0"/>
-        <mxCell id="igLbW2o347uGfIWUB-C--2" value="&lt;b&gt;Invoice H5 Page/E-Invoice Mode&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+        <mxCell id="zzF_F8o6yNPMOhw8YQbG-0" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="igLbW2o347uGfIWUB-C--1">
+          <mxGeometry x="-40" y="260" width="330" height="400" as="geometry"/>
+        </mxCell>
+        <mxCell id="igLbW2o347uGfIWUB-C--2" value="&lt;b&gt;Invoice H5 Page/E-Invoice Mode&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="40" y="368" width="200" height="77" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
@@ -288,9 +291,6 @@
         </mxCell>
         <mxCell id="l3VHSKj6qmZbS3NSPVWN-0" value="Fapiao capacities introduction:&lt;br&gt;1. abc&amp;nbsp;&lt;br&gt;2. abc&lt;br&gt;3. abc&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="igLbW2o347uGfIWUB-C--1">
           <mxGeometry x="375" y="170" width="695" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="zzF_F8o6yNPMOhw8YQbG-0" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="igLbW2o347uGfIWUB-C--1">
-          <mxGeometry x="-40" y="260" width="330" height="400" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
