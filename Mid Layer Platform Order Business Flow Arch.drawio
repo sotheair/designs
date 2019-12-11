@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-11T06:25:24.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="hShyDaXETS2bYLxcdwYS" version="12.3.9" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-11T06:26:57.138Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="HqdmxzbaQ_yPpJxIyN66" version="12.3.9" type="github" pages="4">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1360" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,8 +226,8 @@
         <mxCell id="igLbW2o347uGfIWUB-C--3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="370" y="260" width="800" height="400" as="geometry"/>
         </mxCell>
-        <mxCell id="igLbW2o347uGfIWUB-C--4" value="&lt;h1&gt;Mid Layer Platform&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
-          <mxGeometry x="405" y="280" width="250" height="120" as="geometry"/>
+        <mxCell id="igLbW2o347uGfIWUB-C--4" value="&lt;h1&gt;Middle Layer Platform&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          <mxGeometry x="405" y="280" width="295" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--5" value="Common Service Center - API Gate way" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="395" y="385" width="245" height="65" as="geometry"/>
