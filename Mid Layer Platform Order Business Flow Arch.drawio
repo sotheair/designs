@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-13T07:32:01.190Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="P2MG_LkEHDJ_1E6Kc3Ip" version="12.4.1" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2019-12-16T02:15:12.732Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="4qVU2UrDT_u5-NXWrs27" version="12.4.2" type="github" pages="4">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
-    <mxGraphModel dx="803" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kobSBxUnWEuh3TtMHef2-0"/>
         <mxCell id="kobSBxUnWEuh3TtMHef2-1" parent="kobSBxUnWEuh3TtMHef2-0"/>
@@ -130,7 +130,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dVhLQlLxH9juj035oDKz" name="B - PE">
-    <mxGraphModel dx="803" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3565" dy="2365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eTZUl91Vg5pEZXeEU_nN-0"/>
         <mxCell id="eTZUl91Vg5pEZXeEU_nN-1" parent="eTZUl91Vg5pEZXeEU_nN-0"/>
@@ -213,15 +213,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J9_nsseORInc_kOMTHvB" name="B - Fapiao">
-    <mxGraphModel dx="1630" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="igLbW2o347uGfIWUB-C--0"/>
         <mxCell id="igLbW2o347uGfIWUB-C--1" parent="igLbW2o347uGfIWUB-C--0"/>
         <mxCell id="zzF_F8o6yNPMOhw8YQbG-0" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#000000;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="-590" y="250" width="310" height="400" as="geometry"/>
         </mxCell>
-        <mxCell id="igLbW2o347uGfIWUB-C--2" value="&lt;b&gt;Invoice H5 Page/E-Invoice Mode&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
-          <mxGeometry x="-570" y="360" width="240" height="77" as="geometry"/>
+        <mxCell id="igLbW2o347uGfIWUB-C--2" value="&lt;b&gt;Invoice H5 Page/E-Invoice Mode&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;br&gt;&lt;/span&gt;&lt;b&gt;H5开票由E-fapiao接收、管理开票请求，中台提供订单开票状态查询与开票申请单管理能力&lt;br&gt;&lt;br&gt;Native APP 开票由发票中台&lt;/b&gt;&lt;b&gt;接收、管理开票请求、管理开票申请单，由E-fapiao实际与航信系统进行开票&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          <mxGeometry x="-570" y="360" width="240" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--3" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="-200" y="250" width="500" height="400" as="geometry"/>
@@ -244,7 +244,7 @@
         <mxCell id="igLbW2o347uGfIWUB-C--11" value="&lt;font style=&quot;font-weight: 700 ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px ; font-weight: 700&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Fapiao Business Center&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=45;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="-300" y="70" width="1070" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="igLbW2o347uGfIWUB-C--12" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=45;exitX=0.997;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;" parent="igLbW2o347uGfIWUB-C--1" source="igLbW2o347uGfIWUB-C--2" target="igLbW2o347uGfIWUB-C--6" edge="1">
+        <mxCell id="igLbW2o347uGfIWUB-C--12" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=45;entryX=0.003;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.996;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="igLbW2o347uGfIWUB-C--1" source="igLbW2o347uGfIWUB-C--2" target="igLbW2o347uGfIWUB-C--6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-330" y="404" as="sourcePoint"/>
             <mxPoint x="-175" y="407.17717391304336" as="targetPoint"/>
@@ -266,10 +266,10 @@
           <mxGeometry x="30" y="476.5" width="130" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="NdqWdVjN_joH7nmX93Dz-0" value="Owner:&lt;br&gt;Contact mail:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
-          <mxGeometry x="-590" y="130" width="225" height="40" as="geometry"/>
+          <mxGeometry x="-590" y="60" width="225" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="l3VHSKj6qmZbS3NSPVWN-0" value="Fapiao capacities introduction:&lt;br&gt;1. abc 111&lt;br&gt;2. abc&lt;br&gt;3. abc&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
-          <mxGeometry x="-590" y="170" width="695" height="60" as="geometry"/>
+        <mxCell id="l3VHSKj6qmZbS3NSPVWN-0" value="Fapiao capacities introduction:&lt;br&gt;1. 开票申请单号生成&lt;br&gt;2. 接收开票请求&lt;br&gt;3. 重新开票（限定税号填写错误场景）&lt;br&gt;4. 发票邮箱发送&lt;br&gt;5. 订单开票状态查询&lt;br&gt;6. 开票订单信息查询&lt;br&gt;7. 发票状态查询&lt;br&gt;8. 发票信息查询&lt;br&gt;9. 发票红冲取消开票申请单状态" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          <mxGeometry x="-590" y="100" width="695" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="igLbW2o347uGfIWUB-C--14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=45;" parent="igLbW2o347uGfIWUB-C--1" source="igLbW2o347uGfIWUB-C--7" target="igLbW2o347uGfIWUB-C--6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -277,7 +277,7 @@
             <mxPoint x="-5" y="450" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="igLbW2o347uGfIWUB-C--6" value="&lt;b&gt;Invoice&amp;nbsp; Center&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+        <mxCell id="igLbW2o347uGfIWUB-C--6" value="&lt;b&gt;Invoice&amp;nbsp; Center&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;&lt;br&gt;管理开票申请单，提供合并开票管理能力&lt;br style=&quot;font-size: 10px&quot;&gt;提供发票相关的订单、发票信息查询能力&lt;br style=&quot;font-size: 10px&quot;&gt;提供直接接收开票请求，进行开票能力&amp;nbsp;&lt;br style=&quot;font-size: 10px&quot;&gt;提供重新开票、邮箱发送等辅助能力&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="-150" y="373" width="350" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="tOsCHjYs-OenUiMLWLUY-2" value="&lt;h1&gt;Channels&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipi&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
@@ -312,6 +312,9 @@
         </mxCell>
         <mxCell id="tOsCHjYs-OenUiMLWLUY-27" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates related business center" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
           <mxGeometry x="-560" y="750.5" width="344" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="MZFpeevNBEghiw8TrdTp-0" value="&lt;b&gt;H5开票包括渠道：店用（POS订单）、MOP、MOD、饿了么、预约配送费&lt;br&gt;&lt;br&gt;中台开票包括渠道：APP SRkit、APP SVC&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="igLbW2o347uGfIWUB-C--1">
+          <mxGeometry x="-570" y="520" width="240" height="65" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
