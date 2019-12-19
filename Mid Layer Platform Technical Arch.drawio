@@ -1,4 +1,4 @@
-<mxfile etag="AbVFbW_-Lz8qbPT2lw8X" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:58:06.737Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="jrhULSo8mkGFwsksnHlT" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:59:53.750Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,6 +227,9 @@
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-3" value="NX USER&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;我在技术白皮书里没找到&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="150" y="1440" width="120" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="51VnEOf2Idlvy1vggyJ_-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;星巴克业务中台使用了DataForce 的哪些能力；已使用的能力中是否存在客制化（对比于NEXTTAO DataForce 主版本）； NEXTTAO DataForce 主版本迭代升级的新功能是否会更新到星巴克业务中台？如是简述其以何方式？&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+          <mxGeometry x="-320" y="2020" width="660" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
