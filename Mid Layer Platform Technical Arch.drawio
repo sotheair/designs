@@ -1,4 +1,4 @@
-<mxfile etag="tJi5UsD339rAxPXx7HMb" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T07:07:23.774Z" host="www.draw.io" version="12.4.3" type="github" pages="2">
+<mxfile etag="-bqNz567WxkySZC6sfC6" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T07:07:47.517Z" host="www.draw.io" version="12.4.3" type="github" pages="2">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,10 +216,10 @@
         <mxCell id="KkwRUlRW4DE2ayYE_gJz-2" value="&lt;h1&gt;Kubernetes Cluster&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="-170" y="290" width="400" height="120" as="geometry"/>
         </mxCell>
-        <mxCell id="KkwRUlRW4DE2ayYE_gJz-3" value="More Manage Nodes" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
+        <mxCell id="KkwRUlRW4DE2ayYE_gJz-3" value="&lt;b&gt;More Manage Nodes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="-190" y="1130" width="660" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="KkwRUlRW4DE2ayYE_gJz-4" value="More App Nodes" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
+        <mxCell id="KkwRUlRW4DE2ayYE_gJz-4" value="&lt;b&gt;More App Nodes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="760" y="1140" width="660" height="60" as="geometry"/>
         </mxCell>
       </root>
