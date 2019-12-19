@@ -1,4 +1,4 @@
-<mxfile etag="h-vcJukG-fHx3PWMEmbl" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:07:30.684Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="Mm6TKHJgkDOGNT7QoqOX" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:12:38.910Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,10 +147,10 @@
         <mxCell id="if6YyVIJnBXPyQxNlynv-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;NXEG&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Enterprise Gateway&lt;br&gt;接口注册&lt;br&gt;访问授权&lt;br&gt;映射转换&lt;br&gt;参数过滤&lt;br&gt;签名校验&lt;br&gt;业务过滤&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="-210" y="1390" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-9" value="NXSS&lt;br&gt;Subscription&amp;nbsp;Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-60" y="1580" width="120" height="60" as="geometry"/>
+        <mxCell id="if6YyVIJnBXPyQxNlynv-9" value="NXSS&lt;br&gt;Subscription&amp;nbsp;Service&lt;br&gt;事件注册，订阅，数据分发&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;将消息如何主动推给外部应用的？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+          <mxGeometry x="-70" y="1390" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-12" value="NXMS&lt;br&gt;Message&amp;nbsp;Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-12" value="NXMS&lt;br&gt;Message&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;就是Rabbit MQ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="90" y="1580" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-13" value="NXAG&lt;br&gt;星系？" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
