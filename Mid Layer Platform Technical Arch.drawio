@@ -1,4 +1,4 @@
-<mxfile etag="vm4H4dBXej6i64g3vPnp" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T06:44:00.118Z" host="www.draw.io" version="12.4.3" type="github" pages="2">
+<mxfile etag="3u2SEB6pdZw9RUtx3ahp" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T06:45:39.498Z" host="www.draw.io" version="12.4.3" type="github" pages="2">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="v-42FwTyYBXh3zRywSzZ-0"/>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-1" parent="v-42FwTyYBXh3zRywSzZ-0"/>
         <mxCell id="fuctZNiU73Y8-EYFF_BW-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
-          <mxGeometry x="50" y="395" width="660" height="635" as="geometry"/>
+          <mxGeometry x="50" y="395" width="660" height="695" as="geometry"/>
         </mxCell>
         <mxCell id="fuctZNiU73Y8-EYFF_BW-1" value="&lt;h1&gt;Management Node&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery ability.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="80" y="460" width="610" height="70" as="geometry"/>
@@ -194,6 +194,18 @@
         </mxCell>
         <mxCell id="aYW6UtjyOdSAquGWO2y--0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Service&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot;&gt;Golden image&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(patching and container runtime)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="1115" y="980" width="250" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="aYW6UtjyOdSAquGWO2y--1" value="NXMC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
+          <mxGeometry x="70" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aYW6UtjyOdSAquGWO2y--2" value="NXMC - UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
+          <mxGeometry x="70" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aYW6UtjyOdSAquGWO2y--3" value="NXSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
+          <mxGeometry x="225" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="aYW6UtjyOdSAquGWO2y--4" value="NXGW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
+          <mxGeometry x="380" y="260" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
