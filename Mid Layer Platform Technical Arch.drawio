@@ -1,4 +1,4 @@
-<mxfile etag="coWBqIRT7Rh0R6ptj_VX" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:36:16.721Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="HAQjRCgwsszuNLbVQLEJ" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:37:28.039Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="XpRdO_wsKDuu55zvrnwc-3" value="&lt;h1&gt;Infrastructure Layer&lt;/h1&gt;&lt;p&gt;Base on Microsoft Azure IaaS/PasaS.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="84" y="579" width="450" height="68" as="geometry"/>
         </mxCell>
-        <mxCell id="XpRdO_wsKDuu55zvrnwc-4" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure VM&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Hardware/OS/run-time etc.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="XpRdO_wsKDuu55zvrnwc-4" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure VM&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Hardware/OS/run-time/Dynatrace agent etc.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="79" y="648.5" width="150" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-5" value="&lt;font color=&quot;#336600&quot; style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Azure Cosmos DB&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Mongo DB engine&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Transaction log&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -92,7 +92,7 @@
           <mxGeometry x="431" y="850.5" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="nO3LAVPIE8S7qI5vrqDk-6" value="&lt;b&gt;Font&lt;/b&gt; with color indicates IaaS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="461" y="850" width="305" height="20" as="geometry"/>
+          <mxGeometry x="461" y="850" width="169" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="nO3LAVPIE8S7qI5vrqDk-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#336600;" parent="1" vertex="1">
           <mxGeometry x="431" y="882.5" width="20" height="20" as="geometry"/>
