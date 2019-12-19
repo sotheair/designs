@@ -1,4 +1,4 @@
-<mxfile etag="ve3G_0EDuPey5ByK7Syu" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:22:29.124Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="tzkEZVA1wBxVUi5FpIUx" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:24:31.995Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="if6YyVIJnBXPyQxNlynv-0"/>
         <mxCell id="if6YyVIJnBXPyQxNlynv-1" parent="if6YyVIJnBXPyQxNlynv-0"/>
         <mxCell id="if6YyVIJnBXPyQxNlynv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-490" y="1110" width="220" height="750" as="geometry"/>
+          <mxGeometry x="-490" y="1110" width="160" height="750" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-3" value="&lt;h1&gt;DataForce&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="-220" y="1150" width="500" height="85" as="geometry"/>
@@ -198,10 +198,10 @@
         <mxCell id="if6YyVIJnBXPyQxNlynv-27" value="NXBC&lt;br&gt;业务中心2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="1070" y="1670" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="9A_JHllT9gJcdTWUzOgi-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+        <mxCell id="9A_JHllT9gJcdTWUzOgi-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="-270" y="1900" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="9A_JHllT9gJcdTWUzOgi-1" value="&lt;b&gt;Service need to host&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+        <mxCell id="9A_JHllT9gJcdTWUzOgi-1" value="&lt;b&gt;MNode&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="-240" y="1900" width="130" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
@@ -211,13 +211,19 @@
           <mxGeometry x="100" y="1900" width="130" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-100" y="1900" width="20" height="20" as="geometry"/>
+          <mxGeometry x="-90" y="1900" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-3" value="&lt;b&gt;Python module&amp;nbsp;only&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-70" y="1900" width="150" height="20" as="geometry"/>
+          <mxGeometry x="-60" y="1900" width="150" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-0" value="Data&amp;nbsp;米面的组件是API&amp;nbsp;形式还是Python&amp;nbsp;module?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="530" y="1830" width="180" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="m5pqhvJofG99Qe47nL18-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+          <mxGeometry x="-185" y="1900" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;BNode&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+          <mxGeometry x="-150" y="1900" width="50" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
