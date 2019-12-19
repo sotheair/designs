@@ -1,4 +1,4 @@
-<mxfile etag="G8Hxgc9EmlZ0V61RKCJW" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:29:14.677Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="BLJJYZ-9OBGpKKmK1qtG" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:31:25.622Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,6 +224,9 @@
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;BNode&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="-150" y="1900" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="m5pqhvJofG99Qe47nL18-3" value="&lt;font color=&quot;#cc0000&quot;&gt;NX USER?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+          <mxGeometry x="290" y="1840" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
