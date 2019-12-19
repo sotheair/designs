@@ -1,4 +1,4 @@
-<mxfile etag="0QnFORP0DSfY_oSS1ImZ" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T09:04:23.391Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="J2x85tCpcUOpU4x_5ZVt" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T09:05:47.648Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,6 +376,9 @@
         </mxCell>
         <mxCell id="Q7-uzAleVn5dYD7XahPs-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;10. 说明NXMC和SideCar的联动、交互机制并为此做了哪些客制化&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="-1010" y="960" width="360" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="AMU7MS4Vnuhe_v2N2pkL-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;The Last: 进一步提供和DataForce 集成的指导说明，在说明中包含哪些项是必须完成，哪些项是可选则的，最佳实践等（能够利用到DataForce 的处理能力）。完成的方式中，如果是配置项，提供配置模板及说明，若是API 实现，给出API spec 和Demo;&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
+          <mxGeometry x="-1010" y="1000" width="480" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
