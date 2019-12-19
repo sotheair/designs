@@ -1,4 +1,4 @@
-<mxfile etag="88tpgsdrx4T3DVk2YGEX" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:03:05.750Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="h-vcJukG-fHx3PWMEmbl" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-19T08:07:30.684Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,18 +122,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ov5KaGmn7GFCsjv4Rtxu" name="MLP Overview">
-    <mxGraphModel dx="2187" dy="-335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2187" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="if6YyVIJnBXPyQxNlynv-0"/>
         <mxCell id="if6YyVIJnBXPyQxNlynv-1" parent="if6YyVIJnBXPyQxNlynv-0"/>
         <mxCell id="if6YyVIJnBXPyQxNlynv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-270" y="1300" width="1530" height="560" as="geometry"/>
+          <mxGeometry x="-490" y="1110" width="220" height="750" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-3" value="&lt;h1&gt;DataForce&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-230" y="1335" width="500" height="85" as="geometry"/>
+          <mxGeometry x="-220" y="1150" width="500" height="85" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-230" y="1450" width="620" height="350" as="geometry"/>
+          <mxGeometry x="-230" y="1240" width="620" height="560" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="460" y="1450" width="500" height="350" as="geometry"/>
@@ -142,10 +142,10 @@
           <mxGeometry x="1040" y="1450" width="180" height="350" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-7" value="&lt;h1&gt;Platform&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-210" y="1460" width="290" height="110" as="geometry"/>
+          <mxGeometry x="-210" y="1280" width="290" height="110" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-8" value="NXEG&lt;br&gt;Enterprise Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
-          <mxGeometry x="-200" y="1580" width="120" height="60" as="geometry"/>
+        <mxCell id="if6YyVIJnBXPyQxNlynv-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;NXEG&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Enterprise Gateway&lt;br&gt;接口注册&lt;br&gt;访问授权&lt;br&gt;映射转换&lt;br&gt;参数过滤&lt;br&gt;签名校验&lt;br&gt;业务过滤&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+          <mxGeometry x="-210" y="1390" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-9" value="NXSS&lt;br&gt;Subscription&amp;nbsp;Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="-60" y="1580" width="120" height="60" as="geometry"/>
