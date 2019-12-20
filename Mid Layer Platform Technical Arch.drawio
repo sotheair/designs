@@ -1,4 +1,4 @@
-<mxfile etag="mqNclM5LfJrkjJ6i5gkH" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-20T03:33:40.170Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="nPONlHDmnTvhE79XGM85" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-20T05:55:21.772Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,13 +122,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ov5KaGmn7GFCsjv4Rtxu" name="MLP - DataForce Overview">
-    <mxGraphModel dx="2249" dy="-375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1808" dy="-621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="if6YyVIJnBXPyQxNlynv-0"/>
         <mxCell id="if6YyVIJnBXPyQxNlynv-1" parent="if6YyVIJnBXPyQxNlynv-0"/>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-750" y="1260" width="1520" height="750" as="geometry"/>
-        </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-3" value="&lt;h1&gt;DataForce&lt;/h1&gt;&lt;p&gt;NEXTTAO unified commerce platform, meets the missing ingredient in successful retail&amp;nbsp;transformations, links to retail new world. It&#39;s flexible expansion with open system interfaces and&amp;nbsp; high computing power and flexibility.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-680" y="1300" width="620" height="85" as="geometry"/>
         </mxCell>
@@ -198,29 +195,29 @@
         <mxCell id="9A_JHllT9gJcdTWUzOgi-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-730" y="2050" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="9A_JHllT9gJcdTWUzOgi-1" value="&lt;b&gt;MNode&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-700" y="2050" width="130" height="20" as="geometry"/>
+        <mxCell id="9A_JHllT9gJcdTWUzOgi-1" value="&lt;b&gt;Manage service hosted in MNode&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+          <mxGeometry x="-700" y="2050" width="200" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-460" y="2050" width="20" height="20" as="geometry"/>
+          <mxGeometry x="-290" y="2050" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-1" value="&lt;b&gt;Currently unused&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-430" y="2050" width="130" height="20" as="geometry"/>
+          <mxGeometry x="-250" y="2050" width="130" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-550" y="2050" width="20" height="20" as="geometry"/>
+          <mxGeometry x="-380" y="2050" width="20" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-3" value="&lt;b&gt;Python&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-520" y="2050" width="50" height="20" as="geometry"/>
+          <mxGeometry x="-350" y="2050" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-0" value="Data 面的组件是API&amp;nbsp;形式还是Python&amp;nbsp;module?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="70" y="1980" width="180" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-645" y="2050" width="20" height="20" as="geometry"/>
+          <mxGeometry x="-730" y="2080" width="20" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;BNode&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-610" y="2050" width="50" height="20" as="geometry"/>
+        <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;Business service hosted in BNode&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+          <mxGeometry x="-700" y="2080" width="200" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-3" value="NX USER&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;我在技术白皮书里没找到&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-380" y="1540" width="120" height="150" as="geometry"/>
