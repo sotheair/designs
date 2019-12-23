@@ -1,4 +1,4 @@
-<mxfile etag="kczxdzswyxtjoWbiF4rU" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-23T09:04:50.201Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="To7e_LZitrYjqMjld4_9" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-23T09:06:05.406Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1344" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
         <mxCell id="if6YyVIJnBXPyQxNlynv-7" value="&lt;h1&gt;Platform&lt;/h1&gt;&lt;p&gt;I&lt;span&gt;ncludes security system, operation, monitoring system and data access mechanism.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-790" y="1430" width="400" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;NXEG&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Enterprise Gateway base on OpenResty&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;接口注册&lt;br&gt;访问鉴权&lt;br&gt;映射转换&lt;br&gt;参数过滤&lt;br&gt;签名校验&lt;br&gt;业务过滤&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;NXEG(&lt;/font&gt;&lt;/b&gt;OpenResty&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Enterprise Gateway&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;接口注册&lt;br&gt;访问鉴权&lt;br&gt;映射转换&lt;br&gt;参数过滤&lt;br&gt;签名校验&lt;br&gt;业务过滤&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-790" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-9" value="NXSS&lt;br&gt;Subscription&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;事件注册，订阅，数据分发&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;将消息如何主动推给外部应用的？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
