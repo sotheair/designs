@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" pages="3" host="www.draw.io" modified="2019-12-23T12:48:06.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="z1ricxshP6bHGr9--Bod">
+<mxfile type="github" version="12.4.3" pages="3" host="www.draw.io" modified="2019-12-23T12:49:20.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="Q7etPGHVhtVs6YkI-SD_">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="866" dx="1360">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="9A_JHllT9gJcdTWUzOgi-0" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;">
           <mxGeometry as="geometry" height="20" width="20" y="1980" x="-827"/>
         </mxCell>
-        <mxCell id="9A_JHllT9gJcdTWUzOgi-1" value="&lt;b&gt;Manage service hosted in MNode&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
+        <mxCell id="9A_JHllT9gJcdTWUzOgi-1" value="&lt;b&gt;Manage service hosted with MNode type&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="200" y="1980" x="-797"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-0" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;">
@@ -216,7 +216,7 @@
         <mxCell id="m5pqhvJofG99Qe47nL18-1" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;">
           <mxGeometry as="geometry" height="20" width="20" y="2010" x="-827"/>
         </mxCell>
-        <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;Business service hosted in BNode&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
+        <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;Business service hosted with BNode type&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="200" y="2010" x="-797"/>
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-3" value="&lt;b&gt;NXUSER&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;我在技术白皮书里没找到&lt;/font&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
