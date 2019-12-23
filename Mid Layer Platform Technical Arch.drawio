@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" pages="3" host="www.draw.io" modified="2019-12-23T14:49:24.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="mCEiYMPScKj0wCieAE-v">
+<mxfile type="github" version="12.4.3" pages="3" host="www.draw.io" modified="2019-12-23T14:56:13.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="VlMOzuvZE3OKyw9xkJDL">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="866" dx="1560">
       <root>
@@ -463,12 +463,6 @@
         </mxCell>
         <mxCell id="x2SgGDQ410FcFiMb2it6-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Pilot&lt;/font&gt;&lt;/b&gt;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="60" width="180" y="1360" x="-300"/>
-        </mxCell>
-        <mxCell id="x2SgGDQ410FcFiMb2it6-3" value="Mixer" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
-          <mxGeometry as="geometry" height="60" width="180" y="1360" x="-55"/>
-        </mxCell>
-        <mxCell id="x2SgGDQ410FcFiMb2it6-4" value="Citadel" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
-          <mxGeometry as="geometry" height="60" width="180" y="1360" x="185"/>
         </mxCell>
         <mxCell id="1Rh6sxCglwl21moMro-u-0" value="&lt;h1&gt;Business Kubernetes Cluster in subnet B&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;">
           <mxGeometry as="geometry" height="120" width="490" y="290" x="760"/>
