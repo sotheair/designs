@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" pages="3" host="www.draw.io" modified="2019-12-23T12:49:20.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="Q7etPGHVhtVs6YkI-SD_">
+<mxfile type="github" version="12.4.3" pages="3" host="www.draw.io" modified="2019-12-23T12:50:18.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="XRukl_iyjiMkVOceBlUP">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="866" dx="1360">
       <root>
@@ -196,19 +196,19 @@
           <mxGeometry as="geometry" height="20" width="20" y="1980" x="-827"/>
         </mxCell>
         <mxCell id="9A_JHllT9gJcdTWUzOgi-1" value="&lt;b&gt;Manage service hosted with MNode type&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
-          <mxGeometry as="geometry" height="20" width="200" y="1980" x="-797"/>
+          <mxGeometry as="geometry" height="20" width="237" y="1980" x="-797"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-0" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;">
-          <mxGeometry as="geometry" height="20" width="20" y="1980" x="-487"/>
+          <mxGeometry as="geometry" height="20" width="20" y="2100" x="-827"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-1" value="&lt;b&gt;Currently unused&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
-          <mxGeometry as="geometry" height="20" width="110" y="1980" x="-457"/>
+          <mxGeometry as="geometry" height="20" width="110" y="2100" x="-797"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-2" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;">
-          <mxGeometry as="geometry" height="20" width="20" y="1980" x="-587"/>
+          <mxGeometry as="geometry" height="20" width="20" y="2040" x="-827"/>
         </mxCell>
         <mxCell id="V0yXFhvIlvDSQKaOBjGe-3" value="&lt;b&gt;Python&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
-          <mxGeometry as="geometry" height="20" width="48.6" y="1980" x="-555.6"/>
+          <mxGeometry as="geometry" height="20" width="48.6" y="2040" x="-795.6"/>
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-0" value="Data 面的组件是API&amp;nbsp;形式还是Python&amp;nbsp;module?" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;">
           <mxGeometry as="geometry" height="20" width="180" y="1980" x="70"/>
@@ -217,7 +217,7 @@
           <mxGeometry as="geometry" height="20" width="20" y="2010" x="-827"/>
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;Business service hosted with BNode type&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
-          <mxGeometry as="geometry" height="20" width="200" y="2010" x="-797"/>
+          <mxGeometry as="geometry" height="20" width="257" y="2010" x="-797"/>
         </mxCell>
         <mxCell id="m5pqhvJofG99Qe47nL18-3" value="&lt;b&gt;NXUSER&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;我在技术白皮书里没找到&lt;/font&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="150" width="120" y="1540" x="-500"/>
@@ -286,10 +286,10 @@
           <mxGeometry as="geometry" height="10" width="10" y="1860" x="-780"/>
         </mxCell>
         <mxCell id="9DTVmsYhx-NUPEADTKaE-12" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;">
-          <mxGeometry as="geometry" height="20" width="20" y="2010" x="-587"/>
+          <mxGeometry as="geometry" height="20" width="20" y="2070" x="-827"/>
         </mxCell>
         <mxCell id="9DTVmsYhx-NUPEADTKaE-14" value="&lt;b&gt;Customize module with C++/Go/Lua&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
-          <mxGeometry as="geometry" height="20" width="208.6" y="2010" x="-555.6"/>
+          <mxGeometry as="geometry" height="20" width="208.6" y="2070" x="-795.6"/>
         </mxCell>
         <mxCell id="9DTVmsYhx-NUPEADTKaE-15" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;">
           <mxGeometry as="geometry" height="10" width="10" y="1860" x="-340"/>
@@ -313,10 +313,10 @@
           <mxGeometry as="geometry" height="10" width="10" y="1860" x="-760"/>
         </mxCell>
         <mxCell id="72LLLYNdLgbvDFKiSaO9-0" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;">
-          <mxGeometry as="geometry" height="20" width="20" y="1980" x="-337"/>
+          <mxGeometry as="geometry" height="20" width="20" y="2100" x="-677"/>
         </mxCell>
         <mxCell id="72LLLYNdLgbvDFKiSaO9-1" value="&lt;b&gt;Restful Api&lt;/b&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
-          <mxGeometry as="geometry" height="20" width="90" y="1980" x="-305.6"/>
+          <mxGeometry as="geometry" height="20" width="90" y="2100" x="-645.6"/>
         </mxCell>
         <mxCell id="YNYmWMoCwBbiiMCSosUK-0" value="&lt;b&gt;NXPK&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#cc0000&quot;&gt;开发套件？&lt;/font&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="150" width="120" y="1730" x="-200"/>
