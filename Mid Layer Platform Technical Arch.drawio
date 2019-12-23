@@ -1,4 +1,4 @@
-<mxfile etag="Z99M7x4BUrXl-zhiNraE" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-23T09:08:09.940Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="vi5GYM3qjcfDgHI0DOfx" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-23T09:10:04.547Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1344" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,28 +144,28 @@
         <mxCell id="if6YyVIJnBXPyQxNlynv-7" value="&lt;h1&gt;Platform&lt;/h1&gt;&lt;p&gt;I&lt;span&gt;ncludes security system, operation, monitoring system and data access mechanism.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-790" y="1430" width="400" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;NXEG(&lt;/font&gt;&lt;/b&gt;OpenResty&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;Enterprise Gateway&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;接口注册&lt;br&gt;访问鉴权&lt;br&gt;映射转换&lt;br&gt;参数过滤&lt;br&gt;签名校验&lt;br&gt;业务过滤&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&lt;font&gt;NXEG(&lt;/font&gt;OpenResty&lt;font&gt;&lt;br&gt;)&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Enterprise Gateway&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;接口注册&lt;br&gt;访问鉴权&lt;br&gt;映射转换&lt;br&gt;参数过滤&lt;br&gt;签名校验&lt;br&gt;业务过滤&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-790" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-9" value="NXSS&lt;br&gt;Subscription&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;事件注册，订阅，数据分发&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;将消息如何主动推给外部应用的？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-9" value="&lt;b&gt;NXSS&lt;/b&gt;&lt;br&gt;Subscription&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;事件注册，订阅，数据分发&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;将消息如何主动推给外部应用的？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-650" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-12" value="NXMS&lt;br&gt;Message&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;消息管理&lt;br&gt;队列管理&lt;br&gt;消息跟踪&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;就是Rabbit MQ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-12" value="&lt;b&gt;NXMS&lt;br&gt;&lt;/b&gt;Message&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;消息管理&lt;br&gt;队列管理&lt;br&gt;消息跟踪&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;就是Rabbit MQ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-200" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-13" value="NXAG&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;星系？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-13" value="&lt;b&gt;NXAG&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;星系？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-350" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-14" value="NXMC/UI&lt;br&gt;Management&amp;nbsp;Console" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-14" value="&lt;b&gt;NXMC/UI&lt;/b&gt;&lt;br&gt;Management&amp;nbsp;Console" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-790" y="1730" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-15" value="NXIP&lt;br&gt;Interface Publisher&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;由他供应商构建的服务如何通过其发布到EG？&lt;/font&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-15" value="&lt;b&gt;NXIP&lt;/b&gt;&lt;br&gt;Interface Publisher&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;由他供应商构建的服务如何通过其发布到EG？&lt;/font&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-650" y="1730" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-16" value="NXWF&lt;br&gt;Workflow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-16" value="&lt;b&gt;NXWF&lt;br&gt;&lt;/b&gt;Workflow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-500" y="1730" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-17" value="NXSF (Istio)&lt;br&gt;Service Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-17" value="&lt;b&gt;NXSF (Istio)&lt;/b&gt;&lt;br&gt;Service Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-350" y="1730" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-18" value="&lt;h1&gt;Data&lt;/h1&gt;&lt;p&gt;Focuses on accessing data from Non-RDS/RDS, cache with high performance and reliability.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
@@ -219,7 +219,7 @@
         <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;Business service hosted in BNode&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-797" y="2010" width="200" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="m5pqhvJofG99Qe47nL18-3" value="NX USER&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;我在技术白皮书里没找到&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="m5pqhvJofG99Qe47nL18-3" value="&lt;b&gt;NXUSER&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;我在技术白皮书里没找到&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-500" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="51VnEOf2Idlvy1vggyJ_-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;星巴克业务中台使用了DataForce 的哪些能力；已使用的能力中是否存在客制化（对比于NEXTTAO DataForce 主版本）； NEXTTAO DataForce 主版本迭代升级的新功能是否会更新到星巴克业务中台？如是简述其以何方式？&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
@@ -318,7 +318,7 @@
         <mxCell id="72LLLYNdLgbvDFKiSaO9-1" value="&lt;b&gt;Restful Api&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-305.6" y="1980" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="YNYmWMoCwBbiiMCSosUK-0" value="NXPK&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;开发套件？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
+        <mxCell id="YNYmWMoCwBbiiMCSosUK-0" value="&lt;b&gt;NXPK&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#cc0000&quot;&gt;开发套件？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
           <mxGeometry x="-200" y="1730" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="YNYmWMoCwBbiiMCSosUK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="if6YyVIJnBXPyQxNlynv-1">
