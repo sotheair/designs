@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-24T09:08:55.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="aG5hzURCUz9SA6zEqTU1" version="12.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-24T09:47:27.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="U9Cs1R9xm6pTrjpbdlHp" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-2" value="&lt;h1&gt;Platform Layer&lt;/h1&gt;&lt;p&gt;Base on &lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;NEXTTAO&lt;/font&gt;&lt;/b&gt;&amp;nbsp;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;DataForce&lt;/font&gt;&lt;/b&gt; solution and its foundation composes micro services.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="200" width="490" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Service Mesh&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot;&gt;Micro service foundation base on service mesh&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000099&quot;&gt;Enhance Envoy module to support logging localization, JuaJIT, socket communication and circuit break in API level&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="L_p5e10sN1Be_Nf8V8Cr-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Service Mesh&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot;&gt;Micro service foundation&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#000099&quot;&gt;Enhance Envoy module to support logging localization, JuaJIT, socket communication and circuit break in API level&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="280" width="270" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;OpenResty&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Internal Api gateway&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#000099&quot;&gt;Enhance token, access control and logging system&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
