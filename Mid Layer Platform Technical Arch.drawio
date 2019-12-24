@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-24T08:43:57.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="qQZTAnxxpbwkqfKdVP29" version="12.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-24T08:45:01.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="-oaTKI_Tz1gH7DiaoIVY" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
         <mxCell id="if6YyVIJnBXPyQxNlynv-0"/>
         <mxCell id="if6YyVIJnBXPyQxNlynv-1" parent="if6YyVIJnBXPyQxNlynv-0"/>
         <mxCell id="if6YyVIJnBXPyQxNlynv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-830" y="1390" width="790" height="560" as="geometry"/>
+          <mxGeometry x="-830" y="1390" width="780" height="560" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-3" value="&lt;h1&gt;DataForce&lt;/h1&gt;&lt;p&gt;NEXTTAO unified commerce platform, meets the missing ingredient in successful retail&amp;nbsp;transformations, links to retail new world. It&#39;s flexible expansion with open system interfaces and&amp;nbsp; high computing power and flexibility.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-827" y="1280" width="620" height="85" as="geometry"/>
@@ -151,9 +151,6 @@
           <mxGeometry x="-650" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-12" value="&lt;b&gt;NXMS&lt;br&gt;&lt;/b&gt;Message&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;消息管理&lt;br&gt;队列管理&lt;br&gt;消息跟踪&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;就是Rabbit MQ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-200" y="1540" width="120" height="150" as="geometry"/>
-        </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-13" value="&lt;b&gt;NXAG&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;星系？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-350" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-14" value="&lt;b&gt;NXMC/UI&lt;/b&gt;&lt;br&gt;Management&amp;nbsp;Console" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
@@ -219,7 +216,7 @@
         <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;Business service hosted with BNode type&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-797" y="2010" width="257" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="m5pqhvJofG99Qe47nL18-3" value="&lt;b&gt;NXUSER&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0b4000&quot;&gt;User&amp;nbsp;Administration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="m5pqhvJofG99Qe47nL18-3" value="&lt;b&gt;NXUSER&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0b4000&quot;&gt;管理用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-500" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="51VnEOf2Idlvy1vggyJ_-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;星巴克业务中台使用了DataForce 的哪些能力；已使用的能力中是否存在客制化（对比于NEXTTAO DataForce 主版本）； NEXTTAO DataForce 主版本迭代升级的新功能是否会更新到星巴克业务中台？如是简述其以何方式？&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
@@ -298,7 +295,7 @@
           <mxGeometry x="-780" y="1650" width="10" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="9DTVmsYhx-NUPEADTKaE-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-191.4" y="1667" width="10" height="10" as="geometry"/>
+          <mxGeometry x="-341.4" y="1667" width="10" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="9DTVmsYhx-NUPEADTKaE-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-640" y="1860" width="10" height="10" as="geometry"/>
@@ -323,9 +320,6 @@
         </mxCell>
         <mxCell id="YNYmWMoCwBbiiMCSosUK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-192.4" y="1857" width="10" height="10" as="geometry"/>
-        </mxCell>
-        <mxCell id="YNYmWMoCwBbiiMCSosUK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
-          <mxGeometry x="-340" y="1670" width="10" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="LIgFq5CLVjqOGqP4yM6l-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-170" y="1857" width="10" height="10" as="geometry"/>
