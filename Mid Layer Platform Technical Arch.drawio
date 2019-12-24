@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-24T09:00:53.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="JBYLw844wQ5-P7_WZXC6" version="12.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-24T09:01:55.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="cpFgRHbtXbzn8NWSM7t8" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,13 +150,13 @@
         <mxCell id="if6YyVIJnBXPyQxNlynv-9" value="&lt;b&gt;NXSS&lt;/b&gt;&lt;br&gt;Subscription&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Event&amp;nbsp;registration&lt;br&gt;subscription and&amp;nbsp;distribution&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-650" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-12" value="&lt;b&gt;NXMS&lt;br&gt;&lt;/b&gt;Message&amp;nbsp;Service&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;消息管理&lt;br&gt;队列管理&lt;br&gt;消息跟踪&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-12" value="&lt;b&gt;NXMS&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Message&amp;nbsp;Service&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;消息管理&lt;br&gt;队列管理&lt;br&gt;消息跟踪&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-350" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-14" value="&lt;b&gt;NXMC/UI&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Management&amp;nbsp;&lt;br&gt;Console&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-790" y="1730" width="120" height="150" as="geometry"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-15" value="&lt;b&gt;NXIP&lt;/b&gt;&lt;br&gt;Interface Publisher&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Convert python function to Api&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="if6YyVIJnBXPyQxNlynv-15" value="&lt;b&gt;NXIP&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Interface Publisher&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Convert python function to Api&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-650" y="1730" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-16" value="&lt;b&gt;NXWF&lt;br&gt;&lt;/b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Workflow&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
