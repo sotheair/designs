@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-24T08:50:11.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="xv-FtJvas6I2Q8ARgu8B" version="12.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-24T08:51:05.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="lKVl4oA9TEsymSGQ31rR" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
         <mxCell id="m5pqhvJofG99Qe47nL18-2" value="&lt;b&gt;Business service hosted with BNode type&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-797" y="2010" width="257" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="m5pqhvJofG99Qe47nL18-3" value="&lt;b&gt;NXUSER&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#0b4000&quot;&gt;管理用户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
+        <mxCell id="m5pqhvJofG99Qe47nL18-3" value="&lt;b&gt;NXUSER&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;User&amp;nbsp;Administration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
           <mxGeometry x="-500" y="1540" width="120" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="51VnEOf2Idlvy1vggyJ_-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;星巴克业务中台使用了DataForce 的哪些能力；已使用的能力中是否存在客制化（对比于NEXTTAO DataForce 主版本）； NEXTTAO DataForce 主版本迭代升级的新功能是否会更新到星巴克业务中台？如是简述其以何方式？&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1">
