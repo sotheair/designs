@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-24T10:17:24.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="PLu3Ib19XH_DM1Inql-E" version="12.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-25T01:54:27.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="I5YfcXA0PA65ObogF5MK" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,8 +330,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Tut4Ts_Ti7s6YpCFAIqK" name="Technical Inside">
-    <mxGraphModel dx="2787" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Tut4Ts_Ti7s6YpCFAIqK" name="MLP - Service Mesh">
+    <mxGraphModel dx="2839" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-0"/>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-1" parent="v-42FwTyYBXh3zRywSzZ-0"/>
