@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-25T02:05:54.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="rCqgFq8YDERym02DvnP7" version="12.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-25T02:06:49.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="P46QiwA0gJ-I3WSHUJU1" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -339,7 +339,7 @@
           <mxGeometry x="-1602.5" y="550" width="280" height="290" as="geometry"/>
         </mxCell>
         <mxCell id="KkwRUlRW4DE2ayYE_gJz-0" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="-1617.5" y="1040" width="3460" height="590" as="geometry"/>
+          <mxGeometry x="-1617.5" y="1040" width="1957.5" height="590" as="geometry"/>
         </mxCell>
         <mxCell id="fuctZNiU73Y8-EYFF_BW-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;fontColor=#333333;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
           <mxGeometry x="-1217.5" y="1160.5900000000001" width="340" height="439.41" as="geometry"/>
@@ -353,47 +353,8 @@
         <mxCell id="fuctZNiU73Y8-EYFF_BW-12" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;NXMC&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot;&gt;Golden image&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(patching and container runtime)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
           <mxGeometry x="-1182.5" y="1390" width="250" height="70" as="geometry"/>
         </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;fontColor=#333333;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="750" y="395" width="670" height="695" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-14" value="&lt;h1&gt;Business&amp;nbsp;App&amp;nbsp;Node&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery ability.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="805" y="450" width="610" height="70" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="790" y="550" width="280" height="230" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-16" value="&lt;h1&gt;Monitor Pod&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="810" y="580" width="190" height="110" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Dynatrace agent&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot;&gt;Golden image&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(patching and container runtime)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="805" y="700" width="250" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="1100" y="550" width="280" height="510" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-19" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Init Container&lt;br&gt;初始化Ip tables 用于截留&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="1115" y="700" width="250" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-20" value="&lt;h1&gt;Business Pod&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="1120" y="580" width="190" height="110" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-21" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Redis&lt;br&gt;用于support 当前Enovy&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="1115" y="770" width="250" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="fuctZNiU73Y8-EYFF_BW-22" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Envoy&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot;&gt;Golden image&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(patching and container runtime)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="1115" y="840" width="250" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="MDb3BDtSRhtdf7F5Qnvp-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="v-42FwTyYBXh3zRywSzZ-1" source="aYW6UtjyOdSAquGWO2y--0" target="fuctZNiU73Y8-EYFF_BW-17" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
-        <mxCell id="aYW6UtjyOdSAquGWO2y--0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Business Service&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#cc6600&quot;&gt;Golden image&lt;i style=&quot;font-weight: bold&quot;&gt;&amp;nbsp;&lt;/i&gt;(patching and container runtime)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="1115" y="980" width="250" height="50" as="geometry"/>
-        </mxCell>
         <mxCell id="KkwRUlRW4DE2ayYE_gJz-2" value="&lt;h1&gt;Manage Kubernetes Cluster&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
           <mxGeometry x="-1217.5" y="1070" width="480" height="120" as="geometry"/>
-        </mxCell>
-        <mxCell id="KkwRUlRW4DE2ayYE_gJz-4" value="&lt;b&gt;More App Nodes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="760" y="1140" width="660" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="KkwRUlRW4DE2ayYE_gJz-6" value="ETL/Application GW/Management Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
           <mxGeometry x="1270" y="190" width="250" height="20" as="geometry"/>
