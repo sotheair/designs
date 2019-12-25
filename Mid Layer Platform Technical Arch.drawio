@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.3" pages="3" etag="wRk1R79NCRyc8fjgk0_l" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-12-25T12:01:57.068Z" host="www.draw.io">
+<mxfile type="github" version="12.4.3" pages="3" etag="ZiGS8fzWT4pCaND1cvd4" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-12-25T12:08:01.438Z" host="www.draw.io">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="832" dx="1360">
       <root>
@@ -331,7 +331,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tut4Ts_Ti7s6YpCFAIqK" name="MLP - Service Mesh">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="979" dx="5440">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="1189" dx="5897">
       <root>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-0"/>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-1" parent="v-42FwTyYBXh3zRywSzZ-0"/>
@@ -718,6 +718,9 @@
         </mxCell>
         <mxCell id="8Ub_BkR72HLMrxdCXFV5-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Citadel&lt;/b&gt;&lt;/span&gt;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;dashed=1;strokeColor=#666666;fontColor=#333333;opacity=50;">
           <mxGeometry as="geometry" height="30" width="280" y="1329.42" x="-120"/>
+        </mxCell>
+        <mxCell id="fN7FP3YIIkePekhqRRLy-0" value="" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
+          <mxGeometry as="geometry" height="290.46" width="275" y="1249.54" x="-2757.5"/>
         </mxCell>
       </root>
     </mxGraphModel>
