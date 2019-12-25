@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-25T06:02:32.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="WNRAGc3JtsvWntri56Sx" version="12.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-25T06:02:45.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="W6jO2ut8WcAUVhIH375v" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -673,12 +673,6 @@
         </mxCell>
         <mxCell id="5IuD1MmCg2x2xrxmYW2d-86" value="Consul" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="-760" y="2318" width="40" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="59g927ZVyO9MHCEvNIHn-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
-          <mxGeometry x="-1242.5" y="2200" width="20" height="20" as="geometry"/>
-        </mxCell>
-        <mxCell id="59g927ZVyO9MHCEvNIHn-1" value="&lt;b&gt;Stateless&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
-          <mxGeometry x="-1211.1" y="2200" width="48.6" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="59g927ZVyO9MHCEvNIHn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="-1242.5" y="2230" width="20" height="20" as="geometry"/>
