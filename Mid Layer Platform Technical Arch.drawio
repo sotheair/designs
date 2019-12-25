@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-25T09:19:58.254Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7NhMH24Gh3-utdCTYyx4" version="12.4.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-12-25T09:21:47.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="NxsYYe43wAELQKVmimMw" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1812" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -331,7 +331,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tut4Ts_Ti7s6YpCFAIqK" name="MLP - Service Mesh">
-    <mxGraphModel dx="6932" dy="1736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4618" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-0"/>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-1" parent="v-42FwTyYBXh3zRywSzZ-0"/>
@@ -413,7 +413,7 @@
         <mxCell id="rbOIbCXiGMu_ZCWFEF7j-1" value="&lt;h1&gt;Side&amp;nbsp;Car&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="-2760" y="1099.54" width="190" height="110" as="geometry"/>
         </mxCell>
-        <mxCell id="rbOIbCXiGMu_ZCWFEF7j-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Init Container&lt;br&gt;use shell to init ip talbes&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
+        <mxCell id="rbOIbCXiGMu_ZCWFEF7j-2" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Init Container&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;Use shell to init iptalbes&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
           <mxGeometry x="-2747.5" y="1319.54" width="250" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="rbOIbCXiGMu_ZCWFEF7j-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Redis&lt;br&gt;用于support 当前 Enovy&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="v-42FwTyYBXh3zRywSzZ-1">
