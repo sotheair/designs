@@ -1,4 +1,4 @@
-<mxfile etag="BYn-x0jv12lM4Fot3HZG" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-26T02:13:57.332Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
+<mxfile etag="mghiwa38r6MR8S-ilezt" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2019-12-26T02:20:17.711Z" host="www.draw.io" version="12.4.3" type="github" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="Layer Overview">
     <mxGraphModel dx="1360" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tut4Ts_Ti7s6YpCFAIqK" name="MLP - Service Mesh">
-    <mxGraphModel dx="4880" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5554" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-0"/>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-1" parent="v-42FwTyYBXh3zRywSzZ-0"/>
@@ -381,19 +381,13 @@
           <mxGeometry x="-2250" y="1100" width="480" height="81.17" as="geometry"/>
         </mxCell>
         <mxCell id="ch0fWfmAGI5jqCRs4cM0-0" value="&lt;div&gt;&lt;span&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. 制化的Service mesh 采用的基础框架以及版本，以什么样思想为指导解决何种问题 （问题可能是来自于星巴克环境要求，亦可能源于比开源版本更好应对某种问题等）？&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;解决此类问题的实现方案是否引入其他/潜在的问题？&lt;/span&gt;&lt;/div&gt;" style="text;html=1;fontColor=#CC0000;align=left;verticalAlign=middle;whiteSpace=wrap;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="-2392.5" y="770" width="500" height="60" as="geometry"/>
+          <mxGeometry x="-2338.6" y="890" width="500" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ch0fWfmAGI5jqCRs4cM0-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3. OpenResty 中以插件形式扩展了哪些功能以及必要性说明；OpenResty&lt;br&gt;是否和其他节点存在依赖关系如有请阐述依赖类型；客制化功能是否适用于当前最新版本（1.15）&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif ; color: #1f497d&quot;&gt;OpenResty&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #1f497d&quot;&gt;必要性请围绕&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;calibri&amp;#34; , sans-serif ; color: #1f497d&quot;&gt;Azure Internal Kong &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt ; font-family: &amp;#34;微软雅黑&amp;#34; , sans-serif ; color: #1f497d&quot;&gt;说明&lt;/span&gt;；&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="-2392.5" y="840" width="550" height="80" as="geometry"/>
+          <mxGeometry x="-2338.6" y="960" width="550" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="ch0fWfmAGI5jqCRs4cM0-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5.&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: , sans-serif ; color: rgb(31 , 73 , 125)&quot;&gt;介绍对于拉起的&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;calibri&amp;#34; , sans-serif ; color: rgb(31 , 73 , 125)&quot;&gt;Consul &lt;/span&gt;&lt;span style=&quot;font-family: , sans-serif ; color: rgb(31 , 73 , 125)&quot;&gt;容器起到什么作用&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;calibri&amp;#34; , sans-serif ; color: #1f497d&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="-2392.5" y="904" width="590" height="36" as="geometry"/>
-        </mxCell>
-        <mxCell id="Q7-uzAleVn5dYD7XahPs-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;9. 基于其他语言/形式交付的业务服务，说明如何注册到OpenResty, 如何使用边车，如何获取DataForce 配置/或将自身状态信息展现在DataForce；&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="-1091" y="824.0000000000001" width="400" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="AMU7MS4Vnuhe_v2N2pkL-0" value="&lt;font style=&quot;font-size: 14px&quot;&gt;The Last: 进一步提供和DataForce 集成的指导说明，在说明中包含哪些项是必须完成，哪些项是可选则的，最佳实践等（能够利用到DataForce 的处理能力）。完成的方式中，如果是配置项，提供配置模板及说明，若是API 实现，给出API spec 和Demo;&lt;/font&gt;" style="text;html=1;fontColor=#CC0000;whiteSpace=wrap;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
-          <mxGeometry x="-1090" y="960.0000000000001" width="480" height="70" as="geometry"/>
+          <mxGeometry x="-2338.6" y="1024" width="590" height="36" as="geometry"/>
         </mxCell>
         <mxCell id="rbOIbCXiGMu_ZCWFEF7j-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1">
           <mxGeometry x="-2800" y="1210" width="290" height="390.46" as="geometry"/>
