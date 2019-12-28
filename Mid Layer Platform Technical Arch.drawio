@@ -1,6 +1,6 @@
-<mxfile type="github" version="12.4.7" etag="KzxiPW6a0stqpBGGc6tE" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-12-28T12:40:29.975Z" host="www.draw.io" pages="3">
+<mxfile type="github" version="12.4.7" etag="JNlWJg6Z344J39Z4DQrr" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-12-28T13:32:55.644Z" host="www.draw.io" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="MLP - Technical Stack">
-    <mxGraphModel grid="1" dx="1600" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="1807" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ov5KaGmn7GFCsjv4Rtxu" name="MLP - GenericCapacity">
-    <mxGraphModel grid="1" dx="4081" dy="-337" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="4288" dy="-337" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="if6YyVIJnBXPyQxNlynv-0"/>
         <mxCell id="if6YyVIJnBXPyQxNlynv-1" parent="if6YyVIJnBXPyQxNlynv-0"/>
@@ -596,7 +596,7 @@
         <mxCell id="8bUFyu0HUJX4CYj9c-om-0" value="Kube Proxy Monitor" parent="v-42FwTyYBXh3zRywSzZ-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1">
           <mxGeometry as="geometry" x="-2240" y="660" width="320" height="90"/>
         </mxCell>
-        <mxCell id="vY7-JpIzMBZJkQElqVKW-0" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Middle Layer Platform Service Mesh&lt;/font&gt;&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt; &lt;span style=&quot;color: rgb(0 , 102 , 51) ; font-size: 18px&quot;&gt;V&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#006633&quot; style=&quot;font-size: 18px&quot;&gt;1.191226&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" parent="v-42FwTyYBXh3zRywSzZ-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1">
+        <mxCell id="vY7-JpIzMBZJkQElqVKW-0" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Middle Layer Platform Service Foundation&lt;/font&gt;&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt; &lt;span style=&quot;color: rgb(0 , 102 , 51) ; font-size: 18px&quot;&gt;V&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#006633&quot; style=&quot;font-size: 18px&quot;&gt;1.191226&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" parent="v-42FwTyYBXh3zRywSzZ-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1">
           <mxGeometry as="geometry" x="-3580" y="500" width="955" height="20"/>
         </mxCell>
         <mxCell id="vY7-JpIzMBZJkQElqVKW-1" value="" parent="v-42FwTyYBXh3zRywSzZ-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0000FF;fontColor=#333333;" vertex="1">
