@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.7" etag="C5ElCsaP15jSaytMZvjo" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-12-28T12:13:10.357Z" host="www.draw.io" pages="3">
+<mxfile type="github" version="12.4.7" etag="KzxiPW6a0stqpBGGc6tE" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2019-12-28T12:40:29.975Z" host="www.draw.io" pages="3">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="MLP - Technical Stack">
     <mxGraphModel grid="1" dx="1600" dy="832" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tut4Ts_Ti7s6YpCFAIqK" name="MLP - Service Mesh">
-    <mxGraphModel grid="1" dx="7629" dy="1387" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" dx="8576" dy="1664" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-0"/>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-1" parent="v-42FwTyYBXh3zRywSzZ-0"/>
@@ -600,7 +600,7 @@
           <mxGeometry as="geometry" x="-3580" y="500" width="955" height="20"/>
         </mxCell>
         <mxCell id="vY7-JpIzMBZJkQElqVKW-1" value="" parent="v-42FwTyYBXh3zRywSzZ-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0000FF;fontColor=#333333;" vertex="1">
-          <mxGeometry as="geometry" x="-2224" y="1340" width="310" height="200"/>
+          <mxGeometry as="geometry" x="-2224" y="1290" width="310" height="250"/>
         </mxCell>
         <mxCell id="vY7-JpIzMBZJkQElqVKW-2" value="&lt;h1&gt;Business Node&lt;/h1&gt;" parent="v-42FwTyYBXh3zRywSzZ-1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1">
           <mxGeometry as="geometry" x="-2189" y="1480" width="210" height="40"/>
