@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.7" pages="3" host="www.draw.io" modified="2019-12-28T11:53:14.108Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="Qb6c5hpNRkQfGZHnDEKf">
+<mxfile type="github" version="12.4.7" pages="3" host="www.draw.io" modified="2019-12-28T11:54:46.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="csc-oUm4dSuvY5xpuy55">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="MLP - Technical Stack">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="832" dx="1600">
       <root>
@@ -132,11 +132,11 @@
         <mxCell id="if6YyVIJnBXPyQxNlynv-4" value="" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;">
           <mxGeometry as="geometry" height="340" width="910" y="1500" x="-2390"/>
         </mxCell>
-        <mxCell id="if6YyVIJnBXPyQxNlynv-3" value="&lt;h1&gt;DataForce&lt;/h1&gt;&lt;p&gt;NEXTTAO unified commerce platform, meets the missing ingredient in successful retail&amp;nbsp;transformations, links to retail new world. It&#39;s flexible expansion with open system interfaces and&amp;nbsp; high computing power and flexibility.&lt;/p&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;">
-          <mxGeometry as="geometry" height="85" width="620" y="1390" x="-2387"/>
+        <mxCell id="if6YyVIJnBXPyQxNlynv-3" value="&lt;h1&gt;DataForce&lt;/h1&gt;&lt;p&gt;NEXTTAO DataForce unified commerce platform, meets the missing ingredient in successful retail&amp;nbsp;transformations, links to retail new world. It&#39;s flexible expansion with open system interfaces and&amp;nbsp; high computing power and flexibility.&lt;/p&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;">
+          <mxGeometry as="geometry" height="100" width="620" y="1540" x="-2350"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-7" value="&lt;h1&gt;Platform&lt;/h1&gt;&lt;p&gt;I&lt;span&gt;ncludes security system, operation, monitoring system and data access mechanism.&lt;/span&gt;&lt;/p&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;">
-          <mxGeometry as="geometry" height="90" width="400" y="1540" x="-2350"/>
+          <mxGeometry as="geometry" height="90" width="400" y="1390" x="-1450"/>
         </mxCell>
         <mxCell id="if6YyVIJnBXPyQxNlynv-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&lt;font&gt;NXGW&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;Api Gateway&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;接口注册&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#005700&quot;&gt;访问鉴权&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;映射转换&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;参数过滤&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;签名校验&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#cc6600&quot;&gt;业务过滤&lt;/font&gt;" parent="if6YyVIJnBXPyQxNlynv-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
           <mxGeometry as="geometry" height="150" width="120" y="1650" x="-2350"/>
