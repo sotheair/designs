@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.7" pages="3" host="www.draw.io" modified="2019-12-28T12:01:31.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="jUJowjD8_VGtcUHaERgQ">
+<mxfile type="github" version="12.4.7" pages="3" host="www.draw.io" modified="2019-12-28T12:05:39.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="RsAjKILtuGjXJZCdfBYn">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="MLP - Technical Stack">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="832" dx="1600">
       <root>
@@ -244,7 +244,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Tut4Ts_Ti7s6YpCFAIqK" name="MLP - Service Mesh">
-    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="832" dx="6562">
+    <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="1387" dx="7629">
       <root>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-0"/>
         <mxCell id="v-42FwTyYBXh3zRywSzZ-1" parent="v-42FwTyYBXh3zRywSzZ-0"/>
@@ -592,6 +592,9 @@
             <mxPoint as="sourcePoint" y="1218.1399999999998" x="-4129"/>
             <mxPoint as="targetPoint" y="1218" x="-1480"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8bUFyu0HUJX4CYj9c-om-0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;CONSUL&lt;/b&gt;&lt;/span&gt;" parent="v-42FwTyYBXh3zRywSzZ-1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;">
+          <mxGeometry as="geometry" height="90" width="320" y="660" x="-2240"/>
         </mxCell>
       </root>
     </mxGraphModel>
