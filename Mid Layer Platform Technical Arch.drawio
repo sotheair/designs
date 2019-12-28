@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.4.7" pages="3" host="www.draw.io" modified="2019-12-28T11:40:44.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="bbDtmYbndWANrrf9NPOA">
+<mxfile type="github" version="12.4.7" pages="3" host="www.draw.io" modified="2019-12-28T11:41:11.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="KvQ0WsAAb3JWjfThURuw">
   <diagram id="yn5pNWhVfAMnaeWU7zpd" name="MLP - Technical Stack">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="832" dx="1600">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry as="geometry" height="228" width="832" y="560" x="49"/>
         </mxCell>
         <mxCell id="L_p5e10sN1Be_Nf8V8Cr-13" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Middle Layer Platform Technical&amp;nbsp;Stack&lt;/font&gt;&lt;font&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: rgb(0 , 102 , 51) ; font-size: 18px&quot;&gt;V&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px&quot; color=&quot;#006633&quot;&gt;1.191226&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1">
-          <mxGeometry as="geometry" height="20" width="955" y="110" x="205"/>
+          <mxGeometry as="geometry" height="20" width="955" y="90" x="120"/>
         </mxCell>
         <mxCell id="XpRdO_wsKDuu55zvrnwc-1" value="&lt;h1&gt;Virtualization Layer&lt;/h1&gt;&lt;p&gt;The technical stack in virtualization layer provides&amp;nbsp;scalability, high-availability and disaster recovery ability.&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
           <mxGeometry as="geometry" height="77" width="610" y="408" x="80"/>
