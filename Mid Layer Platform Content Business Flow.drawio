@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T08:34:32.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="aMkNoC5CtHrwjtdK1unj" version="12.5.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-01-13T08:36:34.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="nY0tfd5tEZaGLVcZ64gw" version="12.5.1" type="github" pages="2">
   <diagram id="XCYtl_R4vv8y2SrKMNvc" name="Uploading Flow">
     <mxGraphModel dx="4047" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
         <mxCell id="FjSPBhzyGunT1S6hwJDz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-2460" y="850" width="30" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="FjSPBhzyGunT1S6hwJDz-2" value="The capacity platform needs to build" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FjSPBhzyGunT1S6hwJDz-2" value="The capacity needs to&amp;nbsp;deliver" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2420" y="850" width="200" height="20" as="geometry"/>
         </mxCell>
       </root>
