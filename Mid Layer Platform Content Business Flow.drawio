@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.5.1" pages="2" etag="DgP14DT4IzYJmqQV3Zgq" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T14:53:18.276Z" host="www.draw.io">
+<mxfile type="github" version="12.5.1" pages="2" etag="6hHTpkDJlfYbVF4qoUKd" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T15:01:08.249Z" host="www.draw.io">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Uploading User Case">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="774" dx="3672">
       <root>
@@ -207,7 +207,7 @@
             <mxPoint as="targetPoint" y="604" x="-2210"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvR2-Of-hzqEuAxM7F6R-1" value="validate image&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[1]&lt;/font&gt;&lt;/sup&gt;: Business center validates image depends on its business needs. E.g. for store center it only allows to 10 banner.&amp;nbsp;" parent="1" vertex="1" style="text;html=1;whiteSpace=wrap;">
+        <mxCell id="PvR2-Of-hzqEuAxM7F6R-1" value="validate image&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[1]&lt;/font&gt;&lt;/sup&gt;: Business center validates image depends on its business needs. E.g. for store center it only allows to 10 banners.&amp;nbsp;" parent="1" vertex="1" style="text;html=1;whiteSpace=wrap;">
           <mxGeometry as="geometry" height="80" width="200" y="231" x="-2470"/>
         </mxCell>
         <mxCell id="PvR2-Of-hzqEuAxM7F6R-2" value="validate request&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[2]&lt;/font&gt;&lt;/sup&gt;: Content management needs to check the permission to decide allow upload content or not." parent="1" vertex="1" style="text;html=1;whiteSpace=wrap;">
