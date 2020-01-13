@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.5.1" pages="2" etag="i8a4V5orNDuPrk2O-LkY" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T16:52:08.587Z" host="www.draw.io">
+<mxfile type="github" version="12.5.1" pages="2" etag="2c9rDR3bYbbHqhkhYMv6" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T16:54:38.120Z" host="www.draw.io">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Uploading User Case">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="774" dx="3672">
       <root>
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="lDLZ59sCFjgZFas71iTA-20" value="" parent="fI2PRTh5zaHvBNYzc2sx-5" vertex="1" style="html=1;points=[];perimeter=orthogonalPerimeter;">
           <mxGeometry as="geometry" height="34" width="10" y="479" x="45"/>
-        </mxCell>
-        <mxCell id="fI2PRTh5zaHvBNYzc2sx-6" value="&lt;h1&gt;Channel&lt;/h1&gt;&lt;p&gt;Upload content user case&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
-          <mxGeometry as="geometry" height="71" width="190" y="160" x="-2470"/>
         </mxCell>
         <mxCell id="fI2PRTh5zaHvBNYzc2sx-7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;Content Management Sequence Diagram&lt;br&gt;- upload content&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="20" width="520" y="70" x="-2110"/>
@@ -133,19 +130,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PvR2-Of-hzqEuAxM7F6R-1" value="validate image&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[1]&lt;/font&gt;&lt;/sup&gt;: Business center validates image depends on its business needs. E.g. for store center it only allows to 10 banners.&amp;nbsp;" parent="1" vertex="1" style="text;html=1;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="80" width="200" y="231" x="-2470"/>
+          <mxGeometry as="geometry" height="80" width="200" y="360" x="-2460"/>
         </mxCell>
         <mxCell id="PvR2-Of-hzqEuAxM7F6R-2" value="validate request&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[2]&lt;/font&gt;&lt;/sup&gt;: Content management needs to check the request/permission to decide whether allows to upload content or not." parent="1" vertex="1" style="text;html=1;whiteSpace=wrap;">
-          <mxGeometry as="geometry" height="80" width="200" y="311" x="-2470"/>
+          <mxGeometry as="geometry" height="80" width="200" y="440" x="-2460"/>
         </mxCell>
         <mxCell id="U4m3X5Pd-2RmzHpy8CRf-1" value="&lt;h1&gt;Design Goals&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#cc0000&quot;&gt;1. Decouple business center logic from Azure Blob Storage;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;2. Support current and future coming business cneters; &amp;nbsp;&lt;/p&gt;&lt;p&gt;3. The capacities to storage and manage contents;&lt;/p&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;">
-          <mxGeometry as="geometry" height="170" width="190" y="400" x="-2470"/>
+          <mxGeometry as="geometry" height="170" width="190" y="160" x="-2455"/>
         </mxCell>
         <mxCell id="U4m3X5Pd-2RmzHpy8CRf-2" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;">
-          <mxGeometry as="geometry" height="20" width="40" y="697" x="-2470"/>
+          <mxGeometry as="geometry" height="20" width="40" y="697" x="-2455"/>
         </mxCell>
         <mxCell id="U4m3X5Pd-2RmzHpy8CRf-3" value="The MLP capacities need to delivery" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
-          <mxGeometry as="geometry" height="30" width="150" y="692" x="-2420"/>
+          <mxGeometry as="geometry" height="30" width="150" y="692" x="-2405"/>
         </mxCell>
         <mxCell id="lDLZ59sCFjgZFas71iTA-5" value="" parent="1" vertex="1" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;">
           <mxGeometry as="geometry" height="230" width="10" y="244" x="-2125"/>
@@ -234,10 +231,10 @@
           <mxGeometry as="geometry" height="20" width="110" y="244" x="-2235"/>
         </mxCell>
         <mxCell id="lDLZ59sCFjgZFas71iTA-28" value="&lt;b&gt;2. Upload&lt;/b&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;">
-          <mxGeometry as="geometry" height="20" width="75" y="520" x="-2235"/>
+          <mxGeometry as="geometry" height="20" width="75" y="520" x="-2239"/>
         </mxCell>
         <mxCell id="lDLZ59sCFjgZFas71iTA-29" value="&lt;b&gt;3. Commit&lt;/b&gt;" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;">
-          <mxGeometry as="geometry" height="20" width="75" y="600" x="-2234"/>
+          <mxGeometry as="geometry" height="20" width="75" y="600" x="-2237"/>
         </mxCell>
       </root>
     </mxGraphModel>
