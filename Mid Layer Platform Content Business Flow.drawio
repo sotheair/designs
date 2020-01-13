@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.5.1" pages="2" etag="1Q-x8jyiqdEy7VpOfUiB" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T17:06:24.895Z" host="www.draw.io">
+<mxfile type="github" version="12.5.1" pages="2" etag="F1JqZkkDas41HdToJP29" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T17:09:01.359Z" host="www.draw.io">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Uploading User Case">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="774" dx="3672">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="fI2PRTh5zaHvBNYzc2sx-9" value="" parent="fI2PRTh5zaHvBNYzc2sx-3" vertex="1" style="html=1;points=[];perimeter=orthogonalPerimeter;">
           <mxGeometry as="geometry" height="240" width="10" y="80" x="45"/>
         </mxCell>
-        <mxCell id="fI2PRTh5zaHvBNYzc2sx-5" value="Azure Blob Storage" parent="1" vertex="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;">
+        <mxCell id="fI2PRTh5zaHvBNYzc2sx-5" value="Azure Blob Storage&lt;sup style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;quot&amp;#34; ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: nowrap ; word-spacing: 0px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;[5]&lt;/font&gt;&lt;/sup&gt;" parent="1" vertex="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;">
           <mxGeometry as="geometry" height="640" width="100" y="150" x="-1500"/>
         </mxCell>
         <mxCell id="lDLZ59sCFjgZFas71iTA-6" value="" parent="fI2PRTh5zaHvBNYzc2sx-5" vertex="1" style="html=1;points=[];perimeter=orthogonalPerimeter;">
@@ -241,6 +241,12 @@
         </mxCell>
         <mxCell id="lDLZ59sCFjgZFas71iTA-31" value="meta&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[4]&lt;/font&gt;&lt;/sup&gt;: It&#39;s SHA1 or MD5 etc. from storage for identity authentication." parent="1" vertex="1" style="text;html=1;whiteSpace=wrap;">
           <mxGeometry as="geometry" height="50" width="200" y="580" x="-2460"/>
+        </mxCell>
+        <mxCell id="lDLZ59sCFjgZFas71iTA-32" value="Text" parent="1" vertex="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;">
+          <mxGeometry as="geometry" height="20" width="40" y="646" x="-1528"/>
+        </mxCell>
+        <mxCell id="lDLZ59sCFjgZFas71iTA-33" value="Azure Blob Storage&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[5]&lt;/font&gt;&lt;/sup&gt;: not limited to, but also might be S3, OSS etc. " parent="1" vertex="1" style="text;html=1;whiteSpace=wrap;">
+          <mxGeometry as="geometry" height="50" width="200" y="620" x="-2460"/>
         </mxCell>
       </root>
     </mxGraphModel>
