@@ -1,4 +1,15 @@
-<mxfile host="www.draw.io" modified="2020-01-13T08:04:25.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="7T12u193oXup8EQCtqm2" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T08:08:22.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="hCO9-apkjDkIxzX_0OEf" version="12.5.1" type="github" pages="2">
+  <diagram id="XCYtl_R4vv8y2SrKMNvc" name="Upload Content Flow">
+    <mxGraphModel dx="4047" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="w2XRsc0-q1g1XaiFKeHy-0"/>
+        <mxCell id="w2XRsc0-q1g1XaiFKeHy-1" parent="w2XRsc0-q1g1XaiFKeHy-0"/>
+        <mxCell id="yip7Pxh2Tm1ecb3FbMzp-0" value="&lt;font&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;Content Management Uploading Flow&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="w2XRsc0-q1g1XaiFKeHy-1">
+          <mxGeometry x="-2360" y="90" width="520" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Upload Content">
     <mxGraphModel dx="4047" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
