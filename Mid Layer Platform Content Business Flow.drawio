@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.5.1" pages="2" etag="D5IzH_9_hSsfVuURArhI" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T15:03:11.536Z" host="www.draw.io">
+<mxfile type="github" version="12.5.1" pages="2" etag="taNf7qPZu-AlkLTV9ElS" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T15:06:39.496Z" host="www.draw.io">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Uploading User Case">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="774" dx="3672">
       <root>
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="lDLZ59sCFjgZFas71iTA-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;Alt&lt;/b&gt; else if&lt;/p&gt;" parent="fI2PRTh5zaHvBNYzc2sx-4" vertex="1" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=95;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;">
           <mxGeometry as="geometry" height="219" width="580" y="161" x="-290"/>
+        </mxCell>
+        <mxCell id="lDLZ59sCFjgZFas71iTA-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;Alt&lt;/b&gt; if no&lt;/p&gt;" parent="fI2PRTh5zaHvBNYzc2sx-4" vertex="1" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=95;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;fillColor=#b1ddf0;strokeColor=#10739e;opacity=50;">
+          <mxGeometry as="geometry" height="99" width="480" y="161" x="-190"/>
+        </mxCell>
+        <mxCell id="lDLZ59sCFjgZFas71iTA-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;Alt&lt;/b&gt; else&amp;nbsp;&lt;/p&gt;" parent="fI2PRTh5zaHvBNYzc2sx-4" vertex="1" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=95;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;fillColor=#b1ddf0;strokeColor=#10739e;opacity=50;">
+          <mxGeometry as="geometry" height="120" width="480" y="260" x="-190"/>
         </mxCell>
         <mxCell id="fI2PRTh5zaHvBNYzc2sx-5" value="Azure Blob Storage" parent="1" vertex="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;">
           <mxGeometry as="geometry" height="750" width="100" y="150" x="-1590"/>
