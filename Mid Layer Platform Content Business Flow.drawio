@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.5.1" pages="2" etag="Cm0pN-UpjHVwp61VxseX" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T14:28:10.690Z" host="www.draw.io">
+<mxfile type="github" version="12.5.1" pages="2" etag="adRDbUMvW1vPvAPEYiJJ" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" modified="2020-01-13T14:28:54.966Z" host="www.draw.io">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Upload Content">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="740" dx="3672">
       <root>
@@ -213,7 +213,7 @@
         <mxCell id="U4m3X5Pd-2RmzHpy8CRf-2" value="" parent="1" vertex="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;">
           <mxGeometry as="geometry" height="20" width="40" y="860" x="-2460"/>
         </mxCell>
-        <mxCell id="U4m3X5Pd-2RmzHpy8CRf-3" value="The platform capacity needs to delivery" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
+        <mxCell id="U4m3X5Pd-2RmzHpy8CRf-3" value="The platform capacities need to delivery" parent="1" vertex="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;">
           <mxGeometry as="geometry" height="30" width="150" y="855" x="-2410"/>
         </mxCell>
       </root>
