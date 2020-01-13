@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T07:46:40.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="td0e42QBcoDah729LCgr" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T07:46:51.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="5NIwX067vAM5J5ovXfmW" version="12.5.1" type="github">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Upload Content">
     <mxGraphModel dx="4047" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="fI2PRTh5zaHvBNYzc2sx-24" value="return upload uri if can upload" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1809.5" y="502" as="sourcePoint"/>
-            <mxPoint x="-2000" y="502" as="targetPoint"/>
+            <mxPoint x="-2010" y="502" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="fI2PRTh5zaHvBNYzc2sx-25" value="validate request&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[2]&lt;/font&gt;&lt;/sup&gt;&amp;nbsp;&lt;br&gt;depends on center storage configuration&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;labelBackgroundColor=none;" parent="1" edge="1">
