@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T08:00:13.446Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="tF_Zr9bUdGn9ao3UvSxk" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T08:03:15.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="6q2xgL80OZalw3vTOCy9" version="12.5.1" type="github">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Upload Content">
     <mxGraphModel dx="4047" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="fI2PRTh5zaHvBNYzc2sx-5" value="Azure Blob Storage" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-1590" y="150" width="100" height="750" as="geometry"/>
         </mxCell>
-        <mxCell id="fI2PRTh5zaHvBNYzc2sx-37" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;Par&lt;/b&gt;&amp;nbsp;process request&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=95;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="fI2PRTh5zaHvBNYzc2sx-5" vertex="1">
+        <mxCell id="fI2PRTh5zaHvBNYzc2sx-37" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;Par&lt;/b&gt;&amp;nbsp;process&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=95;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="fI2PRTh5zaHvBNYzc2sx-5" vertex="1">
           <mxGeometry x="-340" y="462" width="310" height="120" as="geometry"/>
         </mxCell>
         <mxCell id="fI2PRTh5zaHvBNYzc2sx-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="fI2PRTh5zaHvBNYzc2sx-5" vertex="1">
@@ -132,7 +132,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fI2PRTh5zaHvBNYzc2sx-30" value="process request queue&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;labelBackgroundColor=none;" parent="1" edge="1">
+        <mxCell id="fI2PRTh5zaHvBNYzc2sx-30" value="enqueue request and&amp;nbsp;wait&amp;nbsp;for&amp;nbsp;processing&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1794" y="624" as="sourcePoint"/>
             <Array as="points">
