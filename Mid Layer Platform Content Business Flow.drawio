@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T07:47:47.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="guxcpCIzZTqUUQbuadND" version="12.5.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-13T07:48:18.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="DVi0M6PgmUsjmcHbUHnO" version="12.5.1" type="github">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Upload Content">
     <mxGraphModel dx="4047" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
             <mxPoint x="-2010" y="502" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fI2PRTh5zaHvBNYzc2sx-25" value="validate request&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[2]&lt;/font&gt;&lt;/sup&gt;&amp;nbsp;&lt;br&gt;depends on center storage configuration&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;labelBackgroundColor=none;" parent="1" edge="1">
+        <mxCell id="fI2PRTh5zaHvBNYzc2sx-25" value="validate request&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[2]&lt;/font&gt;&lt;/sup&gt;&amp;nbsp;&lt;br&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;labelBackgroundColor=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1793" y="454" as="sourcePoint"/>
             <Array as="points">
