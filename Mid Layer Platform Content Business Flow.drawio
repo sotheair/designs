@@ -1,6 +1,6 @@
-<mxfile etag="rFP8aPFjtzTfS_YH5QjD" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2020-01-14T02:34:51.401Z" host="www.draw.io" version="12.5.1" type="github" pages="2">
+<mxfile etag="tnr2XExZLYvuvot-tkQk" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" modified="2020-01-14T02:39:34.274Z" host="www.draw.io" version="12.5.1" type="github" pages="2">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Uploading User Case">
-    <mxGraphModel dx="3561" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3786" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -233,43 +233,41 @@
         <mxCell id="lDLZ59sCFjgZFas71iTA-33" value="Azure Blob Storage&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[5]&lt;/font&gt;&lt;/sup&gt;: not limited to, but also might be S3, OSS etc. " style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-2460" y="620" width="200" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;Alt&lt;/b&gt; &lt;b&gt;get pre-sign url&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=95;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-2100" y="930" width="630" height="290" as="geometry"/>
+        <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 5px ; text-align: left&quot;&gt;&lt;b&gt;Alt&lt;/b&gt; &lt;b&gt;upload content&lt;/b&gt;&lt;/p&gt;" style="html=1;shape=mxgraph.sysml.package;overflow=fill;labelX=95;align=left;spacingLeft=5;verticalAlign=top;spacingTop=-3;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-2100" y="920" width="620" height="460" as="geometry"/>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-2" value="Content Management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-1760" y="880" width="100" height="560" as="geometry"/>
+          <mxGeometry x="-1760" y="860" width="100" height="580" as="geometry"/>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z2Z2UFhDQ-YUkHnf_ntr-2">
           <mxGeometry x="45" y="168" width="10" height="342" as="geometry"/>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-4" value="pre-sign url for upload request" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;labelBackgroundColor=none;entryX=0.116;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Z2Z2UFhDQ-YUkHnf_ntr-2" target="Z2Z2UFhDQ-YUkHnf_ntr-11">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="60" y="292" as="sourcePoint"/>
+            <mxPoint x="60" y="309" as="sourcePoint"/>
             <mxPoint x="309.5" y="292" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="150.5" y="292"/>
-            </Array>
+            <Array as="points"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-5" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=30;" vertex="1" parent="1">
-          <mxGeometry x="-2130" y="890" width="20" height="550" as="geometry"/>
+          <mxGeometry x="-2130" y="860" width="20" height="580" as="geometry"/>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-8" value="Business Center" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1970" y="880" width="100" height="560" as="geometry"/>
+          <mxGeometry x="-1970" y="860" width="100" height="580" as="geometry"/>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z2Z2UFhDQ-YUkHnf_ntr-8">
           <mxGeometry x="45" y="80" width="10" height="430" as="geometry"/>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-10" value="Azure Blob Storage&lt;sup style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;quot&amp;#34; ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: nowrap ; word-spacing: 0px&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;[5]&lt;/font&gt;&lt;/sup&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-1500" y="880" width="100" height="560" as="geometry"/>
+          <mxGeometry x="-1500" y="860" width="100" height="580" as="geometry"/>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z2Z2UFhDQ-YUkHnf_ntr-10">
-          <mxGeometry x="45" y="290" width="10" height="30" as="geometry"/>
+          <mxGeometry x="45" y="308" width="10" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Z2Z2UFhDQ-YUkHnf_ntr-10">
           <mxGeometry x="45" y="366" width="10" height="34" as="geometry"/>
         </mxCell>
-        <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-14" value="credential with meta request" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;labelBackgroundColor=none;" edge="1" parent="1" target="Z2Z2UFhDQ-YUkHnf_ntr-9">
+        <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-14" value="credential with meta&lt;br&gt;binary stream request" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;labelBackgroundColor=none;" edge="1" parent="1" target="Z2Z2UFhDQ-YUkHnf_ntr-9">
           <mxGeometry x="0.005" y="5" width="60" relative="1" as="geometry">
             <mxPoint x="-2110" y="977" as="sourcePoint"/>
             <mxPoint x="-1928" y="977" as="targetPoint"/>
@@ -362,10 +360,10 @@
             <mxPoint x="-1706.833333333333" y="1340.3333333333335" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-34" value="return content metadata" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;entryX=0.799;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Z2Z2UFhDQ-YUkHnf_ntr-9">
+        <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-34" value="return content metadata" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;entryX=1.067;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Z2Z2UFhDQ-YUkHnf_ntr-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1716.55" y="1360" as="sourcePoint"/>
-            <mxPoint x="-1910" y="1360" as="targetPoint"/>
+            <mxPoint x="-1910" y="1361" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z2Z2UFhDQ-YUkHnf_ntr-35" value="&lt;b&gt;1. Upload&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
