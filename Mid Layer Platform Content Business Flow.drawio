@@ -1,4 +1,4 @@
-<mxfile etag="41hvumRXeA4jqZYRyOge" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" modified="2020-01-20T09:40:49.218Z" host="www.draw.io" version="12.5.5" type="github" pages="3">
+<mxfile etag="n-4PKe4AuBRMH2AM3Ru5" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" modified="2020-01-20T09:42:18.198Z" host="www.draw.io" version="12.5.5" type="github" pages="3">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Uploading User Case">
     <mxGraphModel dx="4151" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,7 +225,7 @@
         <mxCell id="lDLZ59sCFjgZFas71iTA-29" value="&lt;b&gt;3. Commit&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="-2158" y="660" width="75" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="lDLZ59sCFjgZFas71iTA-30" value="content metadata&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[3]&lt;/font&gt;&lt;/sup&gt;: includes content id, size, type, full name, description, tags, status and etc. It&#39;s presentation of content." style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="lDLZ59sCFjgZFas71iTA-30" value="content metadata&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[3]&lt;/font&gt;&lt;/sup&gt;: includes content id, size, type, name, for detail check next slice." style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-2460" y="510" width="200" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="lDLZ59sCFjgZFas71iTA-31" value="meta&lt;sup&gt;&lt;font color=&quot;#cc0000&quot;&gt;[4]&lt;/font&gt;&lt;/sup&gt;: It&#39;s SHA1 or MD5 etc. from storage for identity authentication." style="text;html=1;whiteSpace=wrap;" parent="1" vertex="1">
