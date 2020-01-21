@@ -1,4 +1,4 @@
-<mxfile etag="szJn4eFG-1kSnU--l2DM" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" modified="2020-01-21T03:22:53.481Z" host="www.draw.io" version="12.5.5" type="github" pages="3">
+<mxfile etag="G3hlOuy7vX61hfw2yrvg" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" modified="2020-01-21T03:38:04.859Z" host="www.draw.io" version="12.5.5" type="github" pages="3">
   <diagram id="Se-Glehy01dl6wNR-q-G" name="Uploading User Case">
     <mxGraphModel dx="4163" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -602,7 +602,7 @@
         <mxCell id="pAsI2F2GM8RguV5AZ2Ct-42" value="&lt;b&gt;3. Commit&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-2154" y="1339" width="75" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="pAsI2F2GM8RguV5AZ2Ct-45" value="&lt;font&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Community Pattern&lt;br&gt;&lt;font color=&quot;#cc0000&quot;&gt;(&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Recommended&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;)&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pAsI2F2GM8RguV5AZ2Ct-45" value="&lt;font&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Community Pattern&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1892" y="930" width="380" height="20" as="geometry"/>
         </mxCell>
       </root>
