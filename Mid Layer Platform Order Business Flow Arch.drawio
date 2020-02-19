@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.7.1" host="www.draw.io" modified="2020-02-19T09:41:04.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="-ajDl45VFyZ9U4uyzGVn" pages="5">
+<mxfile type="github" version="12.7.1" host="www.draw.io" modified="2020-02-19T10:26:40.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="aOrC6HRrVvbfJijlDLsG" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel page="1" grid="1" dx="738" dy="706" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
             <mxPoint as="sourcePoint" x="870" y="350" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-23" value="&lt;font color=&quot;#006633&quot;&gt;Hema, iStore and SRkit from Order Center &lt;/font&gt;" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1">
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-23" value="&lt;font color=&quot;#006633&quot;&gt;Hema, iStore retail and SRkit from Order Center &lt;/font&gt;" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1">
           <mxGeometry as="geometry" x="290" y="500" width="210" height="30" />
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-24" value="" parent="1" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="ribgnplRl4Wd1gKBCeJ1-23">
