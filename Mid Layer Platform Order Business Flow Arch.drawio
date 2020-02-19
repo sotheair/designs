@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.7.1" host="www.draw.io" modified="2020-02-19T07:41:36.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="n_CYZeFsxePziWRlD9nq" pages="5">
+<mxfile type="github" version="12.7.1" host="www.draw.io" modified="2020-02-19T07:42:10.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="Y7dsMmaeL2yz0bjlPgFG" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel page="1" grid="1" dx="738" dy="706" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ndU5bFHhsBsMHuEpMbfa" name="B - Order Center">
-    <mxGraphModel page="1" grid="1" dx="1977" dy="706" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel page="1" grid="1" dx="2592" dy="860" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dVhLQlLxH9juj035oDKz" name="B - PE">
-    <mxGraphModel page="1" grid="1" dx="738" dy="706" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel page="1" grid="1" dx="1423" dy="860" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="eTZUl91Vg5pEZXeEU_nN-0" />
         <mxCell id="eTZUl91Vg5pEZXeEU_nN-1" parent="eTZUl91Vg5pEZXeEU_nN-0" />
@@ -289,7 +289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="J9_nsseORInc_kOMTHvB" name="B - Fapiao">
-    <mxGraphModel page="1" grid="1" dx="2392" dy="706" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel page="1" grid="1" dx="3077" dy="860" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="igLbW2o347uGfIWUB-C--0" />
         <mxCell id="igLbW2o347uGfIWUB-C--1" parent="igLbW2o347uGfIWUB-C--0" />
@@ -399,7 +399,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qOBu7CtIDoo8BYil4gCy" name="Blair-Fapiao">
-    <mxGraphModel page="1" grid="1" dx="2438" dy="706" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel page="1" grid="1" dx="3123" dy="860" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="VnCNZadoxZpTZtr3mc3R-0" />
         <mxCell id="VnCNZadoxZpTZtr3mc3R-1" parent="VnCNZadoxZpTZtr3mc3R-0" />
