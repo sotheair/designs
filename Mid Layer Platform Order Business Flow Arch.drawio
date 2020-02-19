@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-19T16:02:56.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="iCsODXHevWYBinUIFXti" version="12.7.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-19T16:03:18.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="y_AIjqzbj5yUgbMtNPOL" version="12.7.2" type="github" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1600" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -678,7 +678,7 @@
             <mxPoint x="1897.0000000000002" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m09BGHlNN80bc4u_8TYX-95" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;O2O-OMS Orders captured from order center to enable order center&amp;nbsp; to ensure consistency(with ESB) and &lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;consolidate&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;O2O-OMS orders&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="m09BGHlNN80bc4u_8TYX-95" value="&lt;font color=&quot;#cc6600&quot;&gt;&lt;b&gt;O2O-OMS Orders captured by order center to enable order center&amp;nbsp; to ensure consistency(with ESB) and &lt;/b&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;&lt;b&gt;consolidate&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&amp;nbsp;O2O-OMS orders&lt;/b&gt;&lt;br&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="2240" y="250" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m09BGHlNN80bc4u_8TYX-96" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m09BGHlNN80bc4u_8TYX-95" edge="1">
