@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-19T16:16:06.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="xND7DwLrzll5esTdPulF" version="12.7.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-19T16:51:38.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="4UFWPJGvVhVL9892vRjj" version="12.7.2" type="github" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
-    <mxGraphModel dx="1600" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kobSBxUnWEuh3TtMHef2-0" />
         <mxCell id="kobSBxUnWEuh3TtMHef2-1" parent="kobSBxUnWEuh3TtMHef2-0" />
@@ -29,7 +29,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ndU5bFHhsBsMHuEpMbfa" name="B - Order Center">
-    <mxGraphModel dx="1360" dy="868" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="946" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -705,19 +705,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_bzG5Qz0NuelojNpTDMg-1" value="&lt;font color=&quot;#ff0000&quot;&gt;iStore order will be delivered to CRM by order center?&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="_bzG5Qz0NuelojNpTDMg-1" value="&lt;font color=&quot;#ff0000&quot;&gt;iStore order will be delivered to CRM by order center?&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="970" y="310" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_bzG5Qz0NuelojNpTDMg-2" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_bzG5Qz0NuelojNpTDMg-1">
+        <mxCell id="_bzG5Qz0NuelojNpTDMg-2" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_bzG5Qz0NuelojNpTDMg-1" edge="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="830" y="370" as="targetPoint" />
             <mxPoint x="870" y="470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAR1EQAuWY8MMcgy4xbs-1" value="&lt;font color=&quot;#ff0000&quot;&gt;iStore order will be delivered to CRM by order center?&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1" parent="1">
+        <mxCell id="AAR1EQAuWY8MMcgy4xbs-1" value="&lt;font color=&quot;#ff0000&quot;&gt;iStore order will be delivered to CRM by order center?&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="2240" y="330" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AAR1EQAuWY8MMcgy4xbs-2" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AAR1EQAuWY8MMcgy4xbs-1" target="m09BGHlNN80bc4u_8TYX-38">
+        <mxCell id="AAR1EQAuWY8MMcgy4xbs-2" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AAR1EQAuWY8MMcgy4xbs-1" target="m09BGHlNN80bc4u_8TYX-38" edge="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="2100" y="390" as="targetPoint" />
             <mxPoint x="2140" y="490" as="sourcePoint" />
@@ -892,205 +892,405 @@
     
   </diagram>
   <diagram id="J9_nsseORInc_kOMTHvB" name="B - Fapiao">
+    
     <mxGraphModel dx="3014" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      
       <root>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--0" />
+        
         <mxCell id="igLbW2o347uGfIWUB-C--1" parent="igLbW2o347uGfIWUB-C--0" />
+        
         <mxCell id="igLbW2o347uGfIWUB-C--2" value="&lt;b&gt;Invoice H5 Page/E-Invoice Mode&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;br&gt;&lt;/span&gt;&lt;b&gt;H5开票由E-fapiao接收、管理开票请求，中台提供订单开票状态查询与开票申请单管理能力&lt;br&gt;&lt;br&gt;Native APP 开票由发票中台&lt;/b&gt;&lt;b&gt;接收、管理开票请求、管理开票申请单，由E-fapiao实际与航信系统进行开票&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-570" y="360" width="240" height="150" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--4" value="&lt;h1&gt;Middle Layer Platform&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-200" y="150" width="295" height="120" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--7" value="&lt;b&gt;Order Center &lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#999999;dashed=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-150" y="530" width="350" height="65" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--9" value="&lt;h1&gt;Backend Systems&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="370" y="150" width="250" height="120" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--10" value="&lt;b&gt;E - Fapiao&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="454" y="384" width="245" height="65" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--11" value="&lt;font style=&quot;font-weight: 700 ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px ; font-weight: 700&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Fapiao Business Center&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=45;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-300" y="70" width="1070" height="50" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--12" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=45;entryX=0.003;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.996;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="igLbW2o347uGfIWUB-C--1" source="igLbW2o347uGfIWUB-C--2" target="igLbW2o347uGfIWUB-C--6" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="-330" y="404" as="sourcePoint" />
+            
             <mxPoint x="-175" y="407.17717391304336" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=45;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.004;exitY=0.522;exitDx=0;exitDy=0;exitPerimeter=0;" parent="igLbW2o347uGfIWUB-C--1" source="igLbW2o347uGfIWUB-C--6" target="igLbW2o347uGfIWUB-C--10" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="440" y="407.5" as="sourcePoint" />
+            
             <mxPoint x="838.5" y="607.5" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--16" value="&lt;font color=&quot;#000099&quot;&gt;Business relationship&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="250" y="375" width="130" height="30" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--17" value="&lt;font color=&quot;#000099&quot;&gt;Business relationship&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-329" y="371" width="130" height="30" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--19" value="&lt;font color=&quot;#000099&quot;&gt;Business relationship&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="30" y="476.5" width="130" height="30" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="NdqWdVjN_joH7nmX93Dz-0" value="Owner:&lt;br&gt;Contact mail:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-900" y="75" width="225" height="40" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="l3VHSKj6qmZbS3NSPVWN-0" value="Fapiao capacities introduction:&lt;br&gt;1. 开票申请单号生成&lt;br&gt;2. 接收开票请求&lt;br&gt;3. 重新开票（限定税号填写错误场景）&lt;br&gt;4. 发票邮箱发送&lt;br&gt;5. 订单开票状态查询&lt;br&gt;6. 开票订单信息查询&lt;br&gt;7. 发票状态查询&lt;br&gt;8. 发票信息查询&lt;br&gt;9. 发票红冲取消开票申请单状态" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-900" y="120" width="240" height="150" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fontSize=45;" parent="igLbW2o347uGfIWUB-C--1" source="igLbW2o347uGfIWUB-C--7" target="igLbW2o347uGfIWUB-C--6" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="-4.5" y="501" as="sourcePoint" />
+            
             <mxPoint x="-5" y="450" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="igLbW2o347uGfIWUB-C--6" value="&lt;b&gt;Invoice&amp;nbsp; Center&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;color: rgb(204 , 102 , 0)&quot;&gt;The short introduction of E-Fapiao&lt;/span&gt;&lt;b style=&quot;font-size: 10px&quot;&gt;&amp;nbsp;&lt;br&gt;管理开票申请单，提供合并开票管理能力&lt;br style=&quot;font-size: 10px&quot;&gt;提供发票相关的订单、发票信息查询能力&lt;br style=&quot;font-size: 10px&quot;&gt;提供直接接收开票请求，进行开票能力&amp;nbsp;&lt;br style=&quot;font-size: 10px&quot;&gt;提供重新开票、邮箱发送等辅助能力&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-150" y="373" width="350" height="80" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-2" value="&lt;h1&gt;Channels&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipi&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-590" y="150" width="250" height="85" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-652" y="870" width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-652" y="897.5" width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-13" value="&lt;b&gt;Font &lt;/b&gt;with color indicates used business capacities&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-622" y="870" width="280" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-14" value="&lt;b&gt;Font&lt;/b&gt; with color indicates business relationship" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-622" y="898" width="305" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-652" y="780" width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-20" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates middle layer platform scope" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-622" y="780.5" width="344" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-652" y="808.5" width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-22" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates the main business center" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-622" y="809" width="344" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-652" y="840" width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="tOsCHjYs-OenUiMLWLUY-27" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates related business center" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-622" y="840.5" width="344" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="MZFpeevNBEghiw8TrdTp-0" value="&lt;b&gt;H5开票包括渠道：店用（POS订单）、MOP、MOD、饿了么、预约配送费&lt;br&gt;&lt;br&gt;中台开票包括渠道：APP SRkit、APP SVC&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="igLbW2o347uGfIWUB-C--1" vertex="1">
+          
           <mxGeometry x="-570" y="520" width="240" height="65" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="UIfXOs1jaKCr0zSEf8Uo-0" value="" style="endArrow=none;dashed=1;html=1;" parent="igLbW2o347uGfIWUB-C--1" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="-240" y="700" as="sourcePoint" />
+            
             <mxPoint x="-240" y="150" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="UIfXOs1jaKCr0zSEf8Uo-1" value="" style="endArrow=none;dashed=1;html=1;exitX=0.926;exitY=-0.419;exitDx=0;exitDy=0;exitPerimeter=0;" parent="igLbW2o347uGfIWUB-C--1" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="314.2739999999999" y="679.06" as="sourcePoint" />
+            
             <mxPoint x="315.73" y="146.94" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
       </root>
+      
     </mxGraphModel>
+    
   </diagram>
   <diagram id="qOBu7CtIDoo8BYil4gCy" name="Blair-Fapiao">
+    
     <mxGraphModel dx="3060" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      
       <root>
+        
         <mxCell id="VnCNZadoxZpTZtr3mc3R-0" />
+        
         <mxCell id="VnCNZadoxZpTZtr3mc3R-1" parent="VnCNZadoxZpTZtr3mc3R-0" />
+        
         <mxCell id="KPRi_tou8mpiwr4WuNAL-0" value="&lt;h1&gt;Middle Layer Platform&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1">
+          
           <mxGeometry x="-200" y="150" width="295" height="120" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="KPRi_tou8mpiwr4WuNAL-1" value="&lt;h1&gt;Backend Systems&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1">
+          
           <mxGeometry x="370" y="150" width="250" height="120" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="KPRi_tou8mpiwr4WuNAL-2" value="&lt;font style=&quot;font-weight: 700 ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px ; font-weight: 700&quot;&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;Fapiao Business Center&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=45;" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1">
+          
           <mxGeometry x="-300" y="70" width="1070" height="50" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="KPRi_tou8mpiwr4WuNAL-3" value="&lt;h1&gt;Channels&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipi&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1">
+          
           <mxGeometry x="-590" y="150" width="250" height="85" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="KPRi_tou8mpiwr4WuNAL-4" value="" style="endArrow=none;dashed=1;html=1;" parent="VnCNZadoxZpTZtr3mc3R-1" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="-240" y="700" as="sourcePoint" />
+            
             <mxPoint x="-240" y="150" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="KPRi_tou8mpiwr4WuNAL-5" value="" style="endArrow=none;dashed=1;html=1;exitX=0.926;exitY=-0.419;exitDx=0;exitDy=0;exitPerimeter=0;" parent="VnCNZadoxZpTZtr3mc3R-1" edge="1">
+          
           <mxGeometry width="50" height="50" relative="1" as="geometry">
+            
             <mxPoint x="314.2739999999999" y="679.06" as="sourcePoint" />
+            
             <mxPoint x="315.73" y="146.94000000000005" as="targetPoint" />
+            
           </mxGeometry>
+          
         </mxCell>
+        
         <mxCell id="KPRi_tou8mpiwr4WuNAL-6" value="" style="group" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1" connectable="0">
+          
           <mxGeometry x="-870" y="59" width="250" height="251" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="o_Zj-KPe-WQk1LxcKSYn-0" value="&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Information&lt;/b&gt;&lt;/div&gt;" style="rounded=0;html=1;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;spacingTop=15;spacing=-20;spacingLeft=18;spacingBottom=0;spacingRight=-54;textDirection=ltr;" parent="KPRi_tou8mpiwr4WuNAL-6" vertex="1">
+          
           <mxGeometry width="220" height="251" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="a3DTQC9tL7HR3PmdyaT7-0" value="Owner: Mark Du&lt;br&gt;Contact mail:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KPRi_tou8mpiwr4WuNAL-6" vertex="1">
+          
           <mxGeometry x="10" y="28.00111111111111" width="225" height="22.31111111111111" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="a3DTQC9tL7HR3PmdyaT7-1" value="&lt;div&gt;Fapiao capacities introduction:&lt;br&gt;1.&amp;nbsp;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; line-height: 14.4px ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;接收开票请求&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; line-height: 14.4px ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;/span&gt;2. 开票申请单号生成&lt;br&gt;3. &lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;发票状态查询&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;4. 订单开票状态查询&lt;/span&gt;&lt;/div&gt;&lt;div&gt;5&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;.&amp;nbsp;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;开票订单信息查询&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;6.&amp;nbsp;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;重新开票（限定税号填写错误场景）&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;7.&amp;nbsp;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;发票邮箱发送&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;8.&amp;nbsp;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;发票信息查询&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;9.&amp;nbsp;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;发票红冲&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;取消开票申请单状态&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;10. 取消开票&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;span style=&quot;display: inline ; float: none ; background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: normal ; word-spacing: 0px ; word-wrap: normal&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;11.&lt;/font&gt; &lt;font color=&quot;#b3b3b3&quot;&gt;合并开票&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; white-space: normal ; word-wrap: normal ; float: none ; background-color: transparent&quot;&gt;&lt;span style=&quot;text-align: left ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; white-space: normal ; word-wrap: normal ; float: none ; background-color: transparent&quot;&gt;&lt;span style=&quot;text-align: left ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; white-space: normal ; word-wrap: normal ; float: none ; background-color: transparent&quot;&gt;&lt;span style=&quot;text-align: left ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; white-space: normal ; word-wrap: normal ; float: none ; background-color: transparent&quot;&gt;&lt;span style=&quot;text-align: left ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; white-space: normal ; word-wrap: normal ; float: none ; background-color: transparent&quot;&gt;&lt;span style=&quot;text-align: left ; text-transform: none ; text-indent: 0px ; letter-spacing: normal ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-variant: normal ; font-weight: 400 ; text-decoration: none ; word-spacing: 0px ; display: inline ; white-space: normal ; word-wrap: normal ; float: none ; background-color: transparent&quot;&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp; (前端未ready，后端已ready)&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KPRi_tou8mpiwr4WuNAL-6" vertex="1">
+          
           <mxGeometry x="10" y="44.6" width="240" height="210.4" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-12" value="" style="group" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1" connectable="0">
+          
           <mxGeometry x="-860" y="450" width="374" height="20.5" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="umCVX0bVU02VzBL-ShAb-12" vertex="1">
+          
           <mxGeometry width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-5" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates middle layer platform scope" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="umCVX0bVU02VzBL-ShAb-12" vertex="1">
+          
           <mxGeometry x="30" y="0.5" width="344" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-13" value="" style="group" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1" connectable="0">
+          
           <mxGeometry x="-860" y="478.5" width="374" height="20.5" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="umCVX0bVU02VzBL-ShAb-13" vertex="1">
+          
           <mxGeometry width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-7" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates the main business center" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="umCVX0bVU02VzBL-ShAb-13" vertex="1">
+          
           <mxGeometry x="30" y="0.5" width="344" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-14" value="" style="group" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1" connectable="0">
+          
           <mxGeometry x="-860" y="510" width="374" height="20.5" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="umCVX0bVU02VzBL-ShAb-14" vertex="1">
+          
           <mxGeometry width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-9" value="&lt;b&gt;Background&amp;nbsp;&lt;/b&gt;with color indicates related business center" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="umCVX0bVU02VzBL-ShAb-14" vertex="1">
+          
           <mxGeometry x="30" y="0.5" width="344" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-15" value="" style="group" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1" connectable="0">
+          
           <mxGeometry x="-860" y="540" width="310" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC6600;" parent="umCVX0bVU02VzBL-ShAb-15" vertex="1">
+          
           <mxGeometry width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-2" value="&lt;b&gt;Font &lt;/b&gt;with color indicates used business capacities&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="umCVX0bVU02VzBL-ShAb-15" vertex="1">
+          
           <mxGeometry x="30" width="280" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-16" value="" style="group" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1" connectable="0">
+          
           <mxGeometry x="-860" y="567.5" width="335" height="20.5" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000099;" parent="umCVX0bVU02VzBL-ShAb-16" vertex="1">
+          
           <mxGeometry width="20" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-3" value="&lt;b&gt;Font&lt;/b&gt; with color indicates business relationship" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="umCVX0bVU02VzBL-ShAb-16" vertex="1">
+          
           <mxGeometry x="30" y="0.5" width="305" height="20" as="geometry" />
+          
         </mxCell>
+        
         <mxCell id="umCVX0bVU02VzBL-ShAb-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="VnCNZadoxZpTZtr3mc3R-1" vertex="1">
+          
           <mxGeometry x="-1120" y="439" width="120" height="60" as="geometry" />
+          
         </mxCell>
+        
       </root>
+      
     </mxGraphModel>
+    
   </diagram>
 </mxfile>
