@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.7.1" host="www.draw.io" modified="2020-02-19T07:31:48.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="C7-YjCpfnzyK1sD__0Qr" pages="5">
+<mxfile type="github" version="12.7.1" host="www.draw.io" modified="2020-02-19T07:39:43.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="3uSi7i9Ooj74OJ01kjFQ" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel page="1" grid="1" dx="738" dy="706" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ndU5bFHhsBsMHuEpMbfa" name="B - Order Center">
-    <mxGraphModel page="1" grid="1" dx="1423" dy="860" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel page="1" grid="1" dx="1977" dy="706" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,8 +178,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d5RiEAz61UmeUt_k1eEo-34" value="&amp;nbsp;" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#6C8EBF;fillColor=none;fontSize=12;fontColor=none;opacity=50;" vertex="1">
-          <mxGeometry as="geometry" x="230" y="350" width="90" height="40" />
+        <mxCell id="d5RiEAz61UmeUt_k1eEo-34" value="The delivery and mop orders&amp;nbsp;&lt;br&gt;from O2O-OMS" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#6C8EBF;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1">
+          <mxGeometry as="geometry" x="230" y="350" width="170" height="30" />
         </mxCell>
         <mxCell id="d5RiEAz61UmeUt_k1eEo-35" value="" parent="1" style="edgeStyle=none;endArrow=none;exitX=0.4;exitY=0;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#A680B8;fontSize=25;fontColor=none;" edge="1" source="d5RiEAz61UmeUt_k1eEo-34">
           <mxGeometry as="geometry" x="1" relative="1">
@@ -192,6 +192,14 @@
         <mxCell id="d5RiEAz61UmeUt_k1eEo-39" value="" parent="1" style="edgeStyle=none;endArrow=none;exitX=0.4;exitY=0;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#A680B8;fontSize=25;fontColor=none;" edge="1" source="d5RiEAz61UmeUt_k1eEo-38">
           <mxGeometry as="geometry" x="1" relative="1">
             <mxPoint as="targetPoint" x="490" y="710" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d5RiEAz61UmeUt_k1eEo-43" value="iStore retail, delivery and mop from POS" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#6C8EBF;fillColor=none;fontSize=12;fontColor=none;opacity=50;" vertex="1">
+          <mxGeometry as="geometry" x="-30" y="360" width="150" height="40" />
+        </mxCell>
+        <mxCell id="d5RiEAz61UmeUt_k1eEo-45" value="" parent="1" style="edgeStyle=none;endArrow=none;exitX=0.8;exitY=0;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#A680B8;fontSize=12;fontColor=none;" edge="1" source="d5RiEAz61UmeUt_k1eEo-43">
+          <mxGeometry as="geometry" x="1" relative="1">
+            <mxPoint as="targetPoint" x="160" y="360" />
           </mxGeometry>
         </mxCell>
       </root>
