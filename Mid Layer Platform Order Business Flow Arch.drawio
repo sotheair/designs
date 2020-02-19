@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.7.1" host="www.draw.io" modified="2020-02-19T09:29:04.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="QhbAPrH00OZRq3oEkSMD" pages="5">
+<mxfile type="github" version="12.7.1" host="www.draw.io" modified="2020-02-19T09:33:30.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763" etag="h4S3Py3XLlWKij7trqQD" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel page="1" grid="1" dx="738" dy="706" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="ybdARDxxST7sQ0iw9kL--5" value="Hema" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;opacity=50;" vertex="1">
           <mxGeometry as="geometry" x="640" y="120" width="120" height="60" />
         </mxCell>
-        <mxCell id="d5RiEAz61UmeUt_k1eEo-23" value="iStore" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A680B8;fontColor=#330000;" edge="1" target="d5RiEAz61UmeUt_k1eEo-2" source="ybdARDxxST7sQ0iw9kL--6">
+        <mxCell id="d5RiEAz61UmeUt_k1eEo-23" value="iStore" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#000066;fontColor=#330000;" edge="1" target="d5RiEAz61UmeUt_k1eEo-2" source="ybdARDxxST7sQ0iw9kL--6">
           <mxGeometry as="geometry" relative="1">
             <Array as="points">
               <mxPoint x="830" y="200" />
@@ -93,7 +93,7 @@
         <mxCell id="ybdARDxxST7sQ0iw9kL--6" value="iStore Tmall" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1">
           <mxGeometry as="geometry" x="772" y="120" width="120" height="60" />
         </mxCell>
-        <mxCell id="d5RiEAz61UmeUt_k1eEo-24" value="SRkit" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A680B8;fontColor=#330000;" edge="1" target="d5RiEAz61UmeUt_k1eEo-1" source="ybdARDxxST7sQ0iw9kL--7">
+        <mxCell id="d5RiEAz61UmeUt_k1eEo-24" value="SRkit" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#4D9900;fontColor=#330000;" edge="1" target="d5RiEAz61UmeUt_k1eEo-1" source="ybdARDxxST7sQ0iw9kL--7">
           <mxGeometry as="geometry" relative="1">
             <Array as="points">
               <mxPoint x="960" y="200" />
@@ -168,13 +168,13 @@
         <mxCell id="ybdARDxxST7sQ0iw9kL--12" value="ESB" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1">
           <mxGeometry as="geometry" x="120" y="400" width="120" height="110" />
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-26" value="" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=11;fontColor=none;" edge="1">
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-26" value="" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A680B8;fontSize=11;fontColor=none;" edge="1">
           <mxGeometry as="geometry" relative="1">
             <mxPoint as="sourcePoint" x="270" y="471" />
             <mxPoint as="targetPoint" x="240" y="471" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-27" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000066;fontSize=11;fontColor=none;" edge="1">
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-27" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#4D9900;fontSize=11;fontColor=none;" edge="1">
           <mxGeometry as="geometry" relative="1">
             <mxPoint as="sourcePoint" x="270" y="489.5" />
             <mxPoint as="targetPoint" x="240" y="489.5" />
@@ -186,7 +186,7 @@
         <mxCell id="ybdARDxxST7sQ0iw9kL--15" value="BOH" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1">
           <mxGeometry as="geometry" x="270" y="560" width="130" height="30" />
         </mxCell>
-        <mxCell id="d5RiEAz61UmeUt_k1eEo-26" value="" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#990000;strokeColor=#A680B8;fontColor=#990000;" edge="1" target="ybdARDxxST7sQ0iw9kL--13" source="d5RiEAz61UmeUt_k1eEo-1">
+        <mxCell id="d5RiEAz61UmeUt_k1eEo-26" value="" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#990000;strokeColor=#4D9900;fontColor=#990000;" edge="1" target="ybdARDxxST7sQ0iw9kL--13" source="d5RiEAz61UmeUt_k1eEo-1">
           <mxGeometry as="geometry" relative="1">
             <Array as="points">
               <mxPoint x="960" y="370" />
@@ -197,7 +197,7 @@
         <mxCell id="d5RiEAz61UmeUt_k1eEo-1" value="App Digital OMS" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1">
           <mxGeometry as="geometry" x="900" y="250" width="120" height="30" />
         </mxCell>
-        <mxCell id="d5RiEAz61UmeUt_k1eEo-25" value="" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#990000;strokeColor=#A680B8;fontColor=#990000;" edge="1" target="ybdARDxxST7sQ0iw9kL--13" source="d5RiEAz61UmeUt_k1eEo-2">
+        <mxCell id="d5RiEAz61UmeUt_k1eEo-25" value="" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#990000;strokeColor=#000066;fontColor=#990000;" edge="1" target="ybdARDxxST7sQ0iw9kL--13" source="d5RiEAz61UmeUt_k1eEo-2">
           <mxGeometry as="geometry" relative="1">
             <Array as="points">
               <mxPoint x="830" y="330" />
@@ -294,7 +294,7 @@
             <mxPoint as="sourcePoint" x="308" y="299.9999999999999" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-17" value="&lt;font color=&quot;#006633&quot;&gt;All retail orders (doesn&#39;t include SST order from iStore)&lt;/font&gt;" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1">
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-17" value="&lt;font color=&quot;#006633&quot;&gt;All retail orders &lt;/font&gt;&lt;font color=&quot;#990000&quot;&gt;(doesn&#39;t include SST order from iStore)&lt;/font&gt;" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1">
           <mxGeometry as="geometry" x="20" y="570" width="150" height="40" />
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-18" value="" parent="1" style="edgeStyle=none;endArrow=none;exitX=0;exitY=0;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#666600;fontSize=25;fontColor=none;exitDx=67.5;exitDy=0;exitPerimeter=0;" edge="1" source="ribgnplRl4Wd1gKBCeJ1-17">
@@ -321,12 +321,12 @@
             <mxPoint as="sourcePoint" x="870" y="350" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-23" value="&lt;font color=&quot;#006633&quot;&gt;Hema, iStore and SRkit to Order Center &lt;/font&gt;" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1">
-          <mxGeometry as="geometry" x="940" y="330" width="210" height="30" />
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-23" value="&lt;font color=&quot;#006633&quot;&gt;Hema, iStore and SRkit from Order Center &lt;/font&gt;" parent="1" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1">
+          <mxGeometry as="geometry" x="290" y="500" width="210" height="30" />
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-24" value="" parent="1" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="ribgnplRl4Wd1gKBCeJ1-23">
           <mxGeometry as="geometry" x="1" relative="1">
-            <mxPoint as="targetPoint" x="840" y="390" />
+            <mxPoint as="targetPoint" x="260" y="490" />
             <mxPoint as="sourcePoint" x="880" y="360" />
           </mxGeometry>
         </mxCell>
