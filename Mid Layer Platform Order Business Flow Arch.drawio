@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-19T16:08:50.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="RaRe-hwG_R_LLmbWPkPa" version="12.7.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-19T16:16:06.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="xND7DwLrzll5esTdPulF" version="12.7.2" type="github" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1600" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -610,7 +610,7 @@
             <mxPoint x="2130" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m09BGHlNN80bc4u_8TYX-72" value="&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Delivery, mop, Hema and SRkit will be delivered to enterprise back-end systems.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
+        <mxCell id="m09BGHlNN80bc4u_8TYX-72" value="&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;Consolidated d&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#cc6600&quot;&gt;elivery/mop, Hema and SRkit orders will be delivered to enterprise back-end systems.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="1490" y="470" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m09BGHlNN80bc4u_8TYX-73" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="m09BGHlNN80bc4u_8TYX-72" edge="1">
