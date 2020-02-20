@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-20T06:03:39.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="sTdJpSpLU7e3uaUCawPQ" version="12.7.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-20T06:18:17.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="puEn5hI5R2y3O3NNvUpI" version="12.7.2" type="github" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1806" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
             <mxPoint x="314" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d5RiEAz61UmeUt_k1eEo-43" value="&lt;font color=&quot;#006633&quot;&gt;Store retail, delivery orders to ESB. ESB&amp;nbsp;delivers&amp;nbsp;to enterprise back-end systems and import to order center for order capture.&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
+        <mxCell id="d5RiEAz61UmeUt_k1eEo-43" value="&lt;font color=&quot;#006633&quot;&gt;Store retail, delivery and mop orders to ESB. ESB will deliver to enterprise back-end systems and import to order center for order capture.&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="54" y="290" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-1" value="&lt;span style=&quot;display: inline ; float: none ; background-color: rgb(248 , 249 , 250) ; color: rgb(51 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px ; font-style: normal ; font-variant: normal ; font-weight: normal ; letter-spacing: normal ; line-height: 1.2 ; overflow-wrap: normal ; text-align: center ; text-decoration: none ; text-indent: 0px ; text-transform: none ; white-space: nowrap ; word-spacing: 0px&quot;&gt;Delivery&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
@@ -294,8 +294,8 @@
             <mxPoint x="352" y="299.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-17" value="&lt;font color=&quot;#006633&quot;&gt;All retail orders &lt;/font&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;b&gt;(doesn&#39;t include SST order from iStore)&lt;/b&gt;&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="64" y="570" width="150" height="40" as="geometry" />
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-17" value="&lt;font color=&quot;#006633&quot;&gt;Store retail, delivery, mop, hema and SRkit orders are delivered to enterprise back-end systems&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="30" y="550" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-18" value="" style="edgeStyle=none;endArrow=none;exitX=0;exitY=0;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#666600;fontSize=25;fontColor=none;exitDx=67.5;exitDy=0;exitPerimeter=0;" parent="1" source="ribgnplRl4Wd1gKBCeJ1-17" edge="1">
           <mxGeometry x="1" relative="1" as="geometry">
@@ -303,26 +303,26 @@
             <mxPoint x="412" y="489.9999999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-19" value="&lt;font color=&quot;#006633&quot;&gt;Store retail, delivery and mop orders from ESB to order center for capture&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-19" value="&lt;font color=&quot;#006633&quot;&gt;Store retail, delivery and mop orders to order center for capture&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="4" y="410" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-20" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#666600;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ribgnplRl4Wd1gKBCeJ1-19" edge="1">
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-20" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#666600;fontSize=25;fontColor=none;exitX=0;exitY=0;exitDx=150;exitDy=32.5;exitPerimeter=0;" parent="1" source="ribgnplRl4Wd1gKBCeJ1-19" edge="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="284" y="420" as="targetPoint" />
             <mxPoint x="324" y="390" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-21" value="&lt;font color=&quot;#006633&quot;&gt;iStore order (SRT and SST)&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="1014" y="190" width="160" height="30" as="geometry" />
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-21" value="&lt;font color=&quot;#006633&quot;&gt;iStore orders will be&amp;nbsp;delivered&amp;nbsp;to&amp;nbsp;CRM for star&amp;nbsp;accumulation by ESB&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="330" y="410" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-22" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ribgnplRl4Wd1gKBCeJ1-21" edge="1">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="874" y="250" as="targetPoint" />
+            <mxPoint x="300" y="470" as="targetPoint" />
             <mxPoint x="914" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-23" value="&lt;font color=&quot;#006633&quot;&gt;Hema and SRkit will be delivered to&amp;nbsp; enterprise back-end systems by ESB&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="430" y="360" width="210" height="30" as="geometry" />
+          <mxGeometry x="330" y="465" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-24" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ribgnplRl4Wd1gKBCeJ1-23" edge="1">
           <mxGeometry x="1" relative="1" as="geometry">
