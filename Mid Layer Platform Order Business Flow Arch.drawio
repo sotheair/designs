@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-20T07:07:09.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Kz49pdCGxpF2rx-XrsOC" version="12.7.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-20T09:08:42.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="s7QEOc_lozVrsb9OsCI8" version="12.7.2" type="github" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1806" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -312,8 +312,8 @@
             <mxPoint x="198" y="442.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ribgnplRl4Wd1gKBCeJ1-21" value="&lt;font color=&quot;#006633&quot;&gt;iStore orders will be&amp;nbsp;delivered&amp;nbsp;to&amp;nbsp;CRM for star&amp;nbsp;accumulation by ESB&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="374" y="410" width="160" height="50" as="geometry" />
+        <mxCell id="ribgnplRl4Wd1gKBCeJ1-21" value="&lt;font color=&quot;#006633&quot;&gt;iStore orders will be&amp;nbsp;delivered&amp;nbsp;to&amp;nbsp;Siebel only&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 102 , 51)&quot;&gt;by ESB&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#006633&quot;&gt;for star&amp;nbsp;accumulation&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="374" y="410" width="186" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ribgnplRl4Wd1gKBCeJ1-22" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ribgnplRl4Wd1gKBCeJ1-21" edge="1">
           <mxGeometry x="1" relative="1" as="geometry">
@@ -711,8 +711,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SXBMWEN36kBR7Q0c9kt5-3" value="&lt;font color=&quot;#006633&quot;&gt;iStore orders will be&amp;nbsp;delivered&amp;nbsp;to&amp;nbsp;CRM for star&amp;nbsp;accumulation by ESB&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="410" width="160" height="50" as="geometry" />
+        <mxCell id="SXBMWEN36kBR7Q0c9kt5-3" value="&lt;font color=&quot;#006633&quot;&gt;iStore orders will be&amp;nbsp;delivered&amp;nbsp;to&amp;nbsp;Siebel only&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 102 , 51)&quot;&gt;by ESB&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#006633&quot;&gt;for star&amp;nbsp;accumulation&lt;/font&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#000066;fillColor=none;fontSize=11;fontColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SXBMWEN36kBR7Q0c9kt5-4" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#000066;fontSize=25;fontColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SXBMWEN36kBR7Q0c9kt5-3" target="m09BGHlNN80bc4u_8TYX-38">
           <mxGeometry x="1" relative="1" as="geometry">
