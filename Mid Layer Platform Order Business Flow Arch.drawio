@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-20T06:32:22.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="0TB4lSaC9JPQplvPysqa" version="12.7.2" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-20T06:52:27.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="t2R3_uKwvMtap8oHGP9n" version="12.7.2" type="github" pages="5">
   <diagram id="tHrA3F5uvPnwTFq_IKxd" name="Index">
     <mxGraphModel dx="1806" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m09BGHlNN80bc4u_8TYX-53" value="&lt;span style=&quot;color: rgb(0 , 102 , 51)&quot;&gt;The delivery and mop orders to POS&lt;/span&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;strokeColor=#666600;fillColor=none;fontSize=11;fontColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="1196" y="200" width="90" height="50" as="geometry" />
+          <mxGeometry x="1186" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="m09BGHlNN80bc4u_8TYX-54" value="" style="edgeStyle=none;endArrow=none;exitX=1;exitY=1;dashed=1;html=1;labelBackgroundColor=none;strokeColor=#666600;fontSize=25;fontColor=none;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="m09BGHlNN80bc4u_8TYX-53" edge="1" target="m09BGHlNN80bc4u_8TYX-24">
           <mxGeometry x="1" relative="1" as="geometry">
